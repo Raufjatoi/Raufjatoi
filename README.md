@@ -1,4 +1,4 @@
 ## Hi there, I'm Ruuf! 👋🏼
 
-You can also find me on [LinkedIn](https://www.linkedin.com/in/rauf-jatoi-aa44892aa/)  and on <a rel="https://twitter.com/rauf_pokem80776">Twitter</a>
+You can also find me on [LinkedIn](https://www.linkedin.com/in/rauf-jatoi-aa44892aa/)  and on <a href="https://twitter.com/rauf_pokem80776">Twitter</a>
 ---
