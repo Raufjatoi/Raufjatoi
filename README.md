@@ -13,7 +13,11 @@ For more information about me, visit [My page](https://abdul-rauf.vercel.app/)
 
 ## My Work
 
-### Pinned Repository
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=Raufjatoi&repo=your-pinned-repository&theme=dark)](https://github.com/Raufjatoi/your-pinned-repository)
+### Repository
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=Raufjatoi&repo=Multi-domain-price-estimator&theme=dark)](https://github.com/Raufjatoi/Multi-domain-price-estimator)
+
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=Raufjatoi&repo=Mini-clyde&theme=dark)](https://github.com/Raufjatoi/Multi-domain-price-estimator)
+
+
 
 
