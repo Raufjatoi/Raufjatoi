@@ -6,9 +6,9 @@ I'm a passionate machine learning engineer with a love for coding and data. My e
 
 You can also find me on [LinkedIn](https://www.linkedin.com/in/rauf-jatoi-aa44892aa/) and on [Twitter](https://twitter.com/rauf_pokem80776)
 
-For more information about me, visit [My page](https://my-portfolio2-lime.vercel.app/)
+For more information about me, visit [My page](https://abdul-rauf.vercel.app/)
 ---
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raufjatoi&show_icons=true&count_private=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raufjatoi private=true&show_icons=true&theme=transparent&hide=contribs)
 ![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raufjatoi&layout=compact&theme=dark)
 
 ## My Work
