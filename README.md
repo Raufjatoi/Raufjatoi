@@ -11,9 +11,12 @@ For more information about me, visit [My page](https://abdul-rauf.vercel.app/)
 <!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raufjatoi&count_private=true&show_icons=true&theme=cobalt&hide=contribs)
 ![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raufjatoi&layout=compact&theme=cobalt)
--->
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raufjatoi&count_private=true&show_icons=true&theme=radical&hide=contribs)
 ![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raufjatoi&layout=compact&theme=radical)
+-->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raufjatoi&count_private=true&show_icons=true&theme=nightowl&hide=contribs)
+![Most Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raufjatoi&layout=compact&theme=nightowl)
 
 
 
