@@ -14,27 +14,31 @@ For more information about me, visit [My page](https://abdul-rauf.vercel.app/)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raufjatoi&count_private=true&show_icons=true&theme=radical&hide=contribs)
 ![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raufjatoi&layout=compact&theme=radical)
--->
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raufjatoi&count_private=true&show_icons=true&theme=nightowl&hide=contribs)
 ![Most Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raufjatoi&layout=compact&theme=nightowl)
+-->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raufjatoi&count_private=true&show_icons=true&theme=tokyonight&hide=contribs)
+![Most Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raufjatoi&layout=compact&theme=onedark)
 
-
+tokyonight (Tokyo Night)
+onedark (One Dark)
 
 
 ### Repository
-<!--
+
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=Raufjatoi&repo=Multi-domain-price-estimator&theme=dark)](https://github.com/Raufjatoi/Multi-domain-price-estimator)
 
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=Raufjatoi&repo=Mini-clyde&theme=dark)](https://github.com/Raufjatoi/Mini-clyde)
 
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=Raufjatoi&repo=Ruf&theme=dark)](https://github.com/Raufjatoi/Ruf)
--->
+<!--
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=Raufjatoi&repo=Multi-domain-price-estimator&theme=nightowl)](https://github.com/Raufjatoi/Multi-domain-price-estimator)
 
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=Raufjatoi&repo=Mini-clyde&theme=nightowl)](https://github.com/Raufjatoi/Mini-clyde)
 
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=Raufjatoi&repo=Ruf&theme=nightowl)](https://github.com/Raufjatoi/Ruf)
-
+-->
 
 
 
