@@ -22,11 +22,16 @@ For more information about me, visit [My page](https://abdul-rauf.vercel.app/)
 
 
 ### Repository
+<!--
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=Raufjatoi&repo=Multi-domain-price-estimator&theme=dark)](https://github.com/Raufjatoi/Multi-domain-price-estimator)
 
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=Raufjatoi&repo=Mini-clyde&theme=dark)](https://github.com/Raufjatoi/Mini-clyde)
 
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=Raufjatoi&repo=Ruf&theme=dark)](https://github.com/Raufjatoi/Ruf)
+-->
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=Raufjatoi&repo=Multi-domain-price-estimator&theme=nightowl)](https://github.com/Raufjatoi/Multi-domain-price-estimator)
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=Raufjatoi&repo=Mini-clyde&theme=nightowl)](https://github.com/Raufjatoi/Mini-clyde)
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=Raufjatoi&repo=Ruf&theme=nightowl)](https://github.com/Raufjatoi/Ruf)
 
 
 
