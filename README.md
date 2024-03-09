@@ -18,7 +18,7 @@ For more information about me, visit [My page](https://abdul-rauf.vercel.app/)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raufjatoi&count_private=true&show_icons=true&theme=nightowl&hide=contribs)
 ![Most Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raufjatoi&layout=compact&theme=nightowl)
 -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raufjatoi&count_private=true&show_icons=true&theme=dracula&hide=contribs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raufjatoi&count_private=true&show_icons=true&theme=dark-blue&hide=contribs)
 ![Most Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raufjatoi&layout=compact&theme=onedark)
 
 tokyonight (Tokyo Night)
