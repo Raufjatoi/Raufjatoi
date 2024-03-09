@@ -8,7 +8,7 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/rauf-jatoi-aa4489
 
 For more information about me, visit [My page](https://abdul-rauf.vercel.app/)
 ---
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raufjatoi private=true&show_icons=true&theme=transparent&hide=contribs)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raufjatoi&count private=true&show_icons=true&theme=transparent&hide=contribs)
 ![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raufjatoi&layout=compact&theme=dark)
 
 ## My Work
