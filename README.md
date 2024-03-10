@@ -4,7 +4,7 @@ I'm a passionate machine learning engineer with a love for coding and data. My e
 
 🚀 Excited about the endless possibilities of machine learning and its impact on the world!
 
-You can also find me on [LinkedIn](https://www.linkedin.com/in/rauf-jatoi-aa44892aa/) and on [Twitter](https://twitter.com/rauf_pokem80776)
+You can also find me on [Here](https://bento.me/rauf) 
 
 For more information about me, visit [My page](https://abdul-rauf.vercel.app/)
 ---
