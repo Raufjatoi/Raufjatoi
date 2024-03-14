@@ -6,7 +6,7 @@ I'm a passionate machine learning engineer with a love for coding and data. My e
 
 You can also find me on [Here](https://bento.me/rauf) 
 
-For more information about me, visit [My page](https://abdul-rauf.vercel.app/)
+For more information about me, visit [My page](https://doin-somethin-raufs-projects-c9139f72.vercel.app/)
 ---
 <!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raufjatoi&count_private=true&show_icons=true&theme=cobalt&hide=contribs)
