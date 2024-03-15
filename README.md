@@ -41,7 +41,7 @@ For more information about me, visit [My page](https://doin-somethin-raufs-proje
 
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=Raufjatoi&repo=Ruf&theme=nightowl)](https://github.com/Raufjatoi/Ruf)
 -->
-### My work u can try or modify whatever id mind : 
+### My work 
 
-My mini Rr music player its just a demo im workin on it yet [Here](https://rr-music.vercel.app/) well try it . 
+[Rr mini music player ](https://rr-music.vercel.app/)
 
