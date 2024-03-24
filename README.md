@@ -44,5 +44,5 @@ For more information about me, visit [My page](https://doin-somethin-raufs-proje
 ### My work 
 
 > [Rr mini music player ](https://rr-music.vercel.app/)  
-> [Its not complete yet and im very bad at namin ](https://rr-plus-git-main-raufs-projects-c9139f72.vercel.app/)
+> [Rusic Rasic + or simply Rr + ( workin on it not) ](https://rr-plus-git-main-raufs-projects-c9139f72.vercel.app/)
 
