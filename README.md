@@ -48,5 +48,5 @@ March/24
 > [Rusic Rasic + or simply Rr + ( workin on it) and ye its only for desktop rn sry.](https://rr-plus-git-main-raufs-projects-c9139f72.vercel.app/)
 
 April/24
-  - >>>> [Scenario Based Programming Projects](https://raufjatoi.github.io/Scenario-Based-Programming-projects/)
+  - > [Scenario Based Programming Projects](https://raufjatoi.github.io/Scenario-Based-Programming-projects/)
 
