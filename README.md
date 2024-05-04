@@ -54,7 +54,7 @@ March/24
 April/24
   - > [Scenario Based Programming Projects](https://raufjatoi.github.io/Scenario-Based-Programming-projects/)  
     > > [CS50P Based projs](https://raufjatoi.github.io/CS50P-based-projects)
->[Music App ](https://github.com/Raufjatoi/flask-music-app)
+>[R Music](https://github.com/Raufjatoi/flask-music-app)
 
 May/24  
 >[commerce app ](https://github.com/Raufjatoi/commerce)  
