@@ -49,7 +49,7 @@ Feb/24
 
 March/24
 > [Rr mini music player ](https://rr-music.vercel.app/)  
-> [Rusic Rasic + or simply Rr + ( workin on it) and ye its only for desktop rn sry.](https://rr-plus-git-main-raufs-projects-c9139f72.vercel.app/)
+> [Rusic Rasic + or simply Rr + ( workin on it) and ye its only for desktop rn sry.](https://rr-plus-git-main-raufs-projects-c9139f72.vercel.app/)( paused. )     
 
 April/24
   - > [Scenario Based Programming Projects](https://raufjatoi.github.io/Scenario-Based-Programming-projects/)  
