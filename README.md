@@ -44,18 +44,18 @@ For more information about me, visit [My page](https://doin-somethin-raufs-proje
 ### My work
 
 Feb/24
->[Multi Domain Price Estimator ](https://github.com/Raufjatoi/Multi-domain-price-estimator)       
->[Ruf My Mini API based Bot ](https://github.com/Raufjatoi/Ruf)
+>[Multi Domain Price Estimator ](https://github.com/Raufjatoi/Multi-domain-price-estimator) ✅          
+>[Ruf My Mini API based Bot ](https://github.com/Raufjatoi/Ruf) ✅   
 
 March/24
-> [Rr mini music player ](https://rr-music.vercel.app/)  
+> [Rr mini music player ](https://rr-music.vercel.app/) ✅     
 > [Rusic Rasic + or simply Rr + ( workin on it) and ye its only for desktop rn sry.](https://rr-plus-git-main-raufs-projects-c9139f72.vercel.app/) ( paused. )     
 
 April/24
-  - > [Scenario Based Programming Projects](https://raufjatoi.github.io/Scenario-Based-Programming-projects/)  
-    > > [CS50P Based projs](https://raufjatoi.github.io/CS50P-based-projects)
->[R Music](https://github.com/Raufjatoi/flask-music-app)
+  - > [Scenario Based Programming Projects](https://raufjatoi.github.io/Scenario-Based-Programming-projects/) ✅   
+    > > [CS50P Based projs](https://raufjatoi.github.io/CS50P-based-projects) ✅   
+>[R Music](https://github.com/Raufjatoi/flask-music-app) ✅   
 
 May/24  
->[commerce app ](https://github.com/Raufjatoi/commerce)     
->[DIT_Final-project](https://github.com/Raufjatoi/DIT_final_project) ( Workin... )         
+>[commerce app ](https://github.com/Raufjatoi/commerce)  ✅      
+>[DIT_Final-project](https://github.com/Raufjatoi/DIT_final_project) ( Workin... )          
