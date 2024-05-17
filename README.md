@@ -49,8 +49,7 @@ Feb/24
 
 March/24
 > [Rr mini music player ](https://rr-music.vercel.app/) ✅     
-> [Rusic Rasic + or simply Rr + ( workin on it) and ye its only for desktop rn sry.](https://rr-plus-git-main-raufs-projects-c9139f72.vercel.app/) ( paused. )
-> [rype](https://raufjatoi.github.io/rype/) ☑️      
+> [Rusic Rasic + or simply Rr + ( workin on it) and ye its only for desktop rn sry.](https://rr-plus-git-main-raufs-projects-c9139f72.vercel.app/) ( paused. )         
 
 April/24
   - > [Scenario Based Programming Projects](https://raufjatoi.github.io/Scenario-Based-Programming-projects/) ✅   
@@ -60,4 +59,5 @@ April/24
 May/24  
 >[commerce app ](https://github.com/Raufjatoi/commerce)  ✅      
 >[DIT_Final-project](https://raufjatoi.github.io/DIT_final_project/) ( Workin... not fot mob 🙂 )   
->[game of life](https://raufjatoi.github.io/game-of-life-) ⏸️       
+>[game of life](https://raufjatoi.github.io/game-of-life-) ⏸️
+>[rype](https://raufjatoi.github.io/rype/) ☑️         
