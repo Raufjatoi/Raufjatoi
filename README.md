@@ -62,5 +62,5 @@ May/24
 >[game of life](https://raufjatoi.github.io/game-of-life-) ⏸️           
 >[rype](https://raufjatoi.github.io/rype/) ☑️
 
->[mail app ](https://github.com/Raufjatoi/mail) 📨 ✅
+>[mail app ](https://github.com/Raufjatoi/mail) 📨 ✅        
 >[Random : Somethin for mob finally yeaaa !! ](https://raufjatoi.github.io/someapp/) (😁)     
