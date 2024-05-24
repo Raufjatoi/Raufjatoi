@@ -33,7 +33,13 @@ For more information about me, visit [My page](https://doin-somethin-raufs-proje
 
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=Raufjatoi&repo=commerce&theme=dark)](https://github.com/Raufjatoi/commerce)        
 
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=Raufjatoi&repo=mail&theme=dark)](https://github.com/Raufjatoi/mail)    
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=Raufjatoi&repo=mail&theme=dark)](https://github.com/Raufjatoi/mail)     
+
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=Raufjatoi&repo=Ruf&theme=dark)](https://github.com/Raufjatoi/Ruf)    
+
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=Raufjatoi&repo=DIT_final_project=Ruf&theme=dark)](https://github.com/Raufjatoi/DIT_final_project) 
+
+
 <!--
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=Raufjatoi&repo=Multi-domain-price-estimator&theme=nightowl)](https://github.com/Raufjatoi/Multi-domain-price-estimator)
 
