@@ -71,4 +71,7 @@ May/24
 >[mail app ](https://github.com/Raufjatoi/mail) 📨 ✅        
 >[Random : Somethin for mob finally yeaaa !! ](https://raufjatoi.github.io/someapp/) (😁)           
 >[network 🛜](https://github.com/Raufjatoi/network)(like a social network) ✅          
->[MATH 🥸](https://raufjatoi.github.io/sci-cal/) 🤙   
+>[MATH 🥸](https://raufjatoi.github.io/sci-cal/) 🤙
+
+June/24  (Summer vications ☀)     
+>[courseR : CS50web final project ](https://github.com/Raufjatoi/courseR ) (workin ... )
