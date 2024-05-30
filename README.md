@@ -74,4 +74,5 @@ May/24
 >[MATH 🥸](https://raufjatoi.github.io/sci-cal/) 🤙
 
 June/24  (Summer vications ☀)     
->[courseR : CS50web final project ](https://github.com/Raufjatoi/courseR ) (workin ... )
+>[courseR : CS50web final project ](https://github.com/Raufjatoi/courseR ) ✅     
+>[Musical 🎹](https://raufjatoi.github.io/Music-Instruments-/piano1.html) 🎸  (maybe try some ml on it ..) 
