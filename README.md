@@ -75,4 +75,5 @@ May/24
 
 June/24  (Summer vications ☀)     
 >[courseR : CS50web final project ](https://github.com/Raufjatoi/courseR ) ✅     
->[Musical 🎹](https://raufjatoi.github.io/Music-Instruments-/piano1.html) 🎸  (maybe try some ml on it soon 🙂..) 
+>[Musical 🎹](https://raufjatoi.github.io/Music-Instruments-/piano1.html) 🎸  (maybe try some ml on it soon 🙂..)
+>[SORT](https://raufjatoi.github.io/sort/)     
