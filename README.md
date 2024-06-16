@@ -82,4 +82,4 @@ June/24  (Summer vications ☀)
 
 Internship ( AI , ML and Data Analyst ) Stuffs ..    
 
->[Gold Price Prediction Model](https://raufjatoi-streamlit-and-ml-s-jwquiu.streamlit.app/) (With Streamlit !)             
+- [Gold Price Prediction Model](https://raufjatoi-streamlit-and-ml-s-jwquiu.streamlit.app/) (With Streamlit !)             
