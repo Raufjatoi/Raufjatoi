@@ -80,6 +80,6 @@ June/24  (Summer vications ☀)
 >[elections](https://raufjatoi.github.io/election/) (mini proj ! )                  
 >[Vid : CS50X Final Project ](https://github.com/Raufjatoi/vid-2.0) ✅
 
-Internship ( AI , ML and Data Analyst ) Stuffs ..    
+Internships ( AI , ML and Data Analyst ) Stuffs ..    
 
 - [Gold Price Prediction Model](https://raufjatoi-streamlit-and-ml-s-jwquiu.streamlit.app/) (With Streamlit !)             
