@@ -78,6 +78,8 @@ June/24  (Summer vications ☀)
 >[Musical 🎹](https://raufjatoi.github.io/Music-Instruments-/piano1.html) 🎸  (maybe try some ml on it soon 🙂..)        
 >[SORT](https://raufjatoi.github.io/sort/)                        
 >[elections](https://raufjatoi.github.io/election/) (mini proj ! )                  
->[Vid : CS50X Final Project ](https://github.com/Raufjatoi/vid-2.0) ✅        
+>[Vid : CS50X Final Project ](https://github.com/Raufjatoi/vid-2.0) ✅
+
+Internship ( AI , ML and Data Analyst ) Stuffs ..    
 
 >[Gold Price Prediction Model](https://raufjatoi-streamlit-and-ml-s-jwquiu.streamlit.app/) (With Streamlit !)             
