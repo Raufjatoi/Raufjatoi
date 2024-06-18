@@ -84,4 +84,5 @@ Internships ( AI , ML and Data Analyst ) Stuffs ..
 - [Gold Price Prediction Model](https://raufjatoi-streamlit-and-ml-s-jwquiu.streamlit.app/) (With Streamlit !)             
 - [Language Translation ](https://lan-trans.streamlit.app/)           
 - [Faq Chatbot | beta ver | ](https://chatbotbetaver.streamlit.app/)  ( workin.. )
-- [Household Electricity Consumption Forecast](https://raufjatoi-elecustom.streamlit.app/)            
+- [Household Electricity Consumption Forecast](https://raufjatoi-elecustom.streamlit.app/)
+- [Fashion/Clothing Classification ](https://raufjatois-fashion-clothes-classification.streamlit.app/)     
