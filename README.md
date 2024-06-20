@@ -29,11 +29,14 @@ For more information about me, visit [My page](https://personal-web-page-lemon.v
 
 ### Repository
 
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=Raufjatoi&repo=Multi-domain-price-estimator&theme=dark)](https://github.com/Raufjatoi/Multi-domain-price-estimator)
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=Raufjatoi&repo=Fashion-Classification&theme=dark)](https://github.com/Raufjatoi/Fashion-Classification)      
 
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=Raufjatoi&repo=courseR&theme=dark)](https://github.com/Raufjatoi/courseR)        
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=Raufjatoi&repo=Multi-domain-price-estimator&theme=dark)](https://github.com/Raufjatoi/Multi-domain-price-estimator)    
+
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=Raufjatoi&repo=courseR&theme=dark)](https://github.com/Raufjatoi/courseR)         
 
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=Raufjatoi&repo=DIT_final_project&theme=dark)](https://github.com/Raufjatoi/DIT_final_project) 
+   
 
 
 <!--
