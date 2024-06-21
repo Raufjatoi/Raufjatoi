@@ -88,4 +88,5 @@ Internships ( AI , ML and Data Analyst ) Stuffs ..
 - [Language Translation ](https://lan-trans.streamlit.app/)           
 - [Faq Chatbot | beta ver | ](https://chatbotbetaver.streamlit.app/)  ( workin.. )
 - [Household Electricity Consumption Forecast](https://raufjatoi-elecustom.streamlit.app/)
-- [Fashion/Clothing Classification ](https://raufjatois-fashion-clothes-classification.streamlit.app/)     
+- [Fashion/Clothing Classification ](https://raufjatois-fashion-clothes-classification.streamlit.app/)
+- [Handwritten Character Recognition ( digits for noe 🙂 ) ](https://raufjatoi-num-prediction-mini-app.streamlit.app/) ( fixin some bugs so reload it when it show somethin ..)       
