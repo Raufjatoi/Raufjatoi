@@ -86,7 +86,13 @@ Internships ( AI , ML and Data Analyst ) Stuffs ..
 
 - [Gold Price Prediction Model](https://raufjatoi-streamlit-and-ml-s-jwquiu.streamlit.app/) (With Streamlit !)             
 - [Language Translation ](https://lan-trans.streamlit.app/)           
-- [Faq Chatbot | beta ver | ](https://chatbotbetaver.streamlit.app/)  ( workin.. )
+- [Faq Chatbot | beta ver | ](https://chatbotbetaver.streamlit.app/)  ( paused )
 - [Household Electricity Consumption Forecast](https://raufjatoi-elecustom.streamlit.app/)
 - [Fashion/Clothing Classification ](https://raufjatois-fashion-clothes-classification.streamlit.app/)
-- [Handwritten Character Recognition ( digits for noe 🙂 ) ](https://raufjatoi-num-prediction-mini-app.streamlit.app/) ( fixin some bugs so reload it when it show somethin ..)       
+- [Handwritten Character Recognition ( digits for noe 🙂 ) ](https://raufjatoi-num-prediction-mini-app.streamlit.app/) ( fixin some bugs so reload it when it show somethin ..)
+
+Computer Vision Projects 👁️ ( OpenCv and Yolo models ) 
+- [Hand-Gesture-Drawing-App ](https://github.com/Raufjatoi/Hand-Gesture-Drawing-App)
+- [Hand Gesture Media Player Controler](https://github.com/Raufjatoi/Hand-Gesture-Media-Player-Controler-)
+- [Object Detection App ( UNI 2nd Sem project ) ](https://github.com/Raufjatoi/Object-Detection-App ) ( workin... )        
+
