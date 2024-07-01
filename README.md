@@ -94,5 +94,5 @@ Internships ( AI , ML and Data Analyst ) Stuffs ..
 Computer Vision Projects 👁️ ( OpenCv and Yolo models ) 
 - [Hand-Gesture-Drawing-App ](https://github.com/Raufjatoi/Hand-Gesture-Drawing-App)
 - [Hand Gesture Media Player Controler](https://github.com/Raufjatoi/Hand-Gesture-Media-Player-Controler-)
-- [Object Detection App ( UNI 2nd Sem project ) ](https://github.com/Raufjatoi/Object-Detection-App ) ( workin... )        
+- [Object Detection App ( UNI 2nd Sem project ) ](https://github.com/Raufjatoi/Object-Detection-App) ( workin... )        
 
