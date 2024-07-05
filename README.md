@@ -52,49 +52,43 @@ For more information about me, visit [My page](https://personal-web-page-lemon.v
 ## My work
 
 ## Feb/24
->[Multi Domain Price Estimator ](https://github.com/Raufjatoi/Multi-domain-price-estimator) ✅          
->[Ruf My Mini API based Bot ](https://github.com/Raufjatoi/Ruf) ✅   
+>[Multi Domain Price Estimator ](https://github.com/Raufjatoi/Multi-domain-price-estimator)             
+>[Ruf My Mini API based Bot ](https://github.com/Raufjatoi/Ruf)             
 
-## March/24
-> [Rr mini music player ](https://rr-music.vercel.app/) ✅     
-> [Rusic Rasic + or simply Rr + ( workin on it) and ye its only for desktop rn sry.](https://rr-plus-git-main-raufs-projects-c9139f72.vercel.app/) ( paused. )         
+## March/24     
+> [Rr mini music player ](https://rr-music.vercel.app/)           
+> [Rr + ](https://rr-plus-git-main-raufs-projects-c9139f72.vercel.app/) ( paused. )                    
 
 ## April/24
-  - > [Scenario Based Programming Projects](https://raufjatoi.github.io/Scenario-Based-Programming-projects/) ✅   
-    > > [CS50P Based projs](https://raufjatoi.github.io/CS50P-based-projects) ✅   
->[R Music](https://github.com/Raufjatoi/flask-music-app) ✅   
+>[Scenario Based Programming Projects](https://raufjatoi.github.io/Scenario-Based-Programming-projects/)               
+>[CS50P Based projs](https://raufjatoi.github.io/CS50P-based-projects)          
+>[R Music](https://github.com/Raufjatoi/flask-music-app)             
 
 ## May/24  
->[commerce app ](https://github.com/Raufjatoi/commerce)  ✅      
->[DIT_Final-project](https://raufjatoi.github.io/DIT_final_project/) ( Done dana done 🙂 ) ✅       
->[game of life](https://raufjatoi.github.io/game-of-life-) ⏸️           
->[rype](https://raufjatoi.github.io/rype/) ☑️
-
->[mail app ](https://github.com/Raufjatoi/mail) 📨 ✅        
->[Random : Somethin for mob finally yeaaa !! ](https://raufjatoi.github.io/someapp/) (😁)           
->[network 🛜](https://github.com/Raufjatoi/network)(like a social network) ✅          
->[MATH 🥸](https://raufjatoi.github.io/sci-cal/) 🤙
+>[commerce app ](https://github.com/Raufjatoi/commerce)                     
+>[DIT_Final-project](https://raufjatoi.github.io/DIT_final_project/)                                                                          
+>[rype](https://raufjatoi.github.io/rype/)                     
+>[mail app ](https://github.com/Raufjatoi/mail)              
+>[Random : for mob  ](https://raufjatoi.github.io/someapp/)                          
+>[network 🛜](https://github.com/Raufjatoi/network)(like a social network)                            
 
 ## June/24  (Summer vications ☀)     
->[courseR : CS50Web Final Project ](https://github.com/Raufjatoi/courseR ) ✅     
->[Musical 🎹](https://raufjatoi.github.io/Music-Instruments-/piano1.html) 🎸  (maybe try some ml on it soon 🙂..)        
->[SORT](https://raufjatoi.github.io/sort/)                        
->[elections](https://raufjatoi.github.io/election/) (mini proj ! )                  
->[Vid : CS50X Final Project ](https://github.com/Raufjatoi/vid-2.0) ✅
+>[courseR : CS50Web Final Project ](https://github.com/Raufjatoi/courseR )                                        
+>[Vid : CS50X Final Project ](https://github.com/Raufjatoi/vid-2.0)              
 
-Internships ( AI , ML and Data Analyst ) Stuffs ..    
+Internships ( AI , ML and Data Analyst )          
 
-- [Gold Price Prediction Model](https://raufjatoi-streamlit-and-ml-s-jwquiu.streamlit.app/) (With Streamlit !)             
-- [Language Translation ](https://lan-trans.streamlit.app/)           
-- [Faq Chatbot | beta ver | ](https://chatbotbetaver.streamlit.app/)  ( paused )
-- [Household Electricity Consumption Forecast](https://raufjatoi-elecustom.streamlit.app/)
-- [Fashion/Clothing Classification ](https://raufjatois-fashion-clothes-classification.streamlit.app/)
-- [Handwritten Character Recognition ( digits for noe 🙂 ) ](https://raufjatoi-num-prediction-mini-app.streamlit.app/) ( fixin some bugs so reload it when it show somethin ..)
+- [Gold Price Prediction Model](https://raufjatoi-streamlit-and-ml-s-jwquiu.streamlit.app/) (With Streamlit !)                        
+- [Language Translation ](https://lan-trans.streamlit.app/)                
+- [Faq Chatbot | beta ver | ](https://chatbotbetaver.streamlit.app/)  ( paused )        
+- [Household Electricity Consumption Forecast](https://raufjatoi-elecustom.streamlit.app/)         
+- [Fashion/Clothing Classification ](https://raufjatois-fashion-clothes-classification.streamlit.app/)               
+- [Handwritten Character Recognition ( digits for noe 🙂 ) ](https://raufjatoi-num-prediction-mini-app.streamlit.app/) ( fixin some bugs so reload it when it show somethin ..)           
 
-Computer Vision Projects 👁️ ( OpenCv and Yolo models ) 
-- [Hand-Gesture-Drawing-App ](https://github.com/Raufjatoi/Hand-Gesture-Drawing-App)
-- [Hand Gesture Media Player Controler](https://github.com/Raufjatoi/Hand-Gesture-Media-Player-Controler-)
-- [Object Detection App ( UNI 2nd Sem project ) ](https://github.com/Raufjatoi/Object-Detection-App) ( workin... )
+Computer Vision Projects ( OpenCv , mediapipe and Yolo models )            
+- [Hand-Gesture-Drawing-App ](https://github.com/Raufjatoi/Hand-Gesture-Drawing-App)          
+- [Hand Gesture Media Player Controler](https://github.com/Raufjatoi/Hand-Gesture-Media-Player-Controler-)            
+- [Object Detection App ( my Uni 2nd Sem project ) ](https://github.com/Raufjatoi/Object-Detection-App) ( workin... )          
 
-## July/24 (Covering up and been ready for uni again 🙂)         
-- .....
+## July/24          
+- ...
