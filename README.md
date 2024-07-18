@@ -6,7 +6,8 @@ I'm a passionate machine learning engineer with a love for coding and data. My e
 
 You can also find me on [Here](https://bento.me/rauf) 
 
-For more information about me, visit [My page](https://personal-web-page-lemon.vercel.app/index.html)            
+For more information about me, visit [My page](https://personal-web-page-lemon.vercel.app/index.html)           
+
 ---
 <!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raufjatoi&count_private=true&show_icons=true&theme=cobalt&hide=contribs)
@@ -22,7 +23,7 @@ For more information about me, visit [My page](https://personal-web-page-lemon.v
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raufjatoi&count_private=true&show_icons=true&theme=dark&hide=contribs&custom_title=My%20GitHub%20Stats&bg_color=000000&title_color=0000FF&text_color=0000FF&icon_color=0000FF)
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raufjatoi&count_private=true&show_icons=true&theme=dark&hide=contribs&custom_title=My%20GitHub%20Stats&bg_color=1A1B27&title_color=0000FF&text_color=0000FF&icon_color=0000FF)
--->
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raufjatoi&count_private=true&show_icons=true&theme=dark&hide=contribs)
 ![Most Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raufjatoi&layout=compact&theme=dark)
 
@@ -36,8 +37,7 @@ For more information about me, visit [My page](https://personal-web-page-lemon.v
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=Raufjatoi&repo=courseR&theme=dark)](https://github.com/Raufjatoi/courseR)         
 
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=Raufjatoi&repo=DIT_final_project&theme=dark)](https://github.com/Raufjatoi/DIT_final_project) 
-   
-
+-->
 
 <!--
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=Raufjatoi&repo=mail&theme=dark)](https://github.com/Raufjatoi/mail)     
