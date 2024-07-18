@@ -4,9 +4,9 @@ I'm a passionate machine learning engineer with a love for coding and data. My e
 
 🚀 Excited about the endless possibilities of machine learning and its impact on the world!
 
-You can also find me on ### [Here](https://bento.me/rauf) 
+You can also find me on **[Here](https://bento.me/rauf)** 
 
-For more information about me, visit ### [My page](https://personal-web-page-lemon.vercel.app/index.html)           
+For more information about me, visit  **[My page](https://personal-web-page-lemon.vercel.app/index.html)**           
 
 ---
 <!--
