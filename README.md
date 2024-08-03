@@ -91,4 +91,8 @@ Computer Vision Projects ( OpenCv , mediapipe and Yolo models )
         
 
 ## July/24          
-- [Object Detection App ( my 2nd Sem Uni project ) ](https://github.com/Raufjatoi/Object-Detection-App-in-Java) ( workin... )         
+- [Object Detection App ( my 2nd Sem Uni project ) ](https://github.com/Raufjatoi/Object-Detection-App-in-Java)
+
+ ## Aug/24     
+- [Pandas Series ](https://github.com/Raufjatoi/Pandas)        
+- [Data Visualization Series ](https://github.com/Raufjatoi/Data-Visualization)      
