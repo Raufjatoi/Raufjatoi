@@ -95,4 +95,5 @@ Computer Vision Projects ( OpenCv , mediapipe and Yolo models )
 
  ## Aug/24     
 - [Pandas Series ](https://github.com/Raufjatoi/Pandas)        
-- [Data Visualization Series ](https://github.com/Raufjatoi/Data-Visualization)      
+- [Data Visualization Series ](https://github.com/Raufjatoi/Data-Visualization)
+- [Educational Website ](https://elsa-ivory.vercel.app/)     
