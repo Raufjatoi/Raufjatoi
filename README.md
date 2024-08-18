@@ -10,7 +10,7 @@ I'm Rauf, an Artificial Intelligence student.
 ## Courses
 
 I also have my YouTube channel where I create tutorials:
-* [ML Playlist](https://youtube.com/playlist?list=PLTZ70XpJ2zMuKgSRRwmg1Khj65lzSnh35&si=CGtGVL0sBJSGhPdj)
+* [Machine Learning ](https://youtube.com/playlist?list=PLTZ70XpJ2zMuKgSRRwmg1Khj65lzSnh35&si=CGtGVL0sBJSGhPdj)
 
 ## Contact Me
 
