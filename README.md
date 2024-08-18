@@ -1,3 +1,23 @@
+# Hello!
+
+I'm Rauf, A Artificial Intelligence Student.
+
+## Projects
+
+* [Multi Domain Price Estimator ](https://github.com/Raufjatoi/Multi-domain-price-estimator), an web based app tha predict prices of multiple domains    
+* [Rr mini music player ](https://rr-music.vercel.app/), a mini music player
+* [Object Detection App ](https://github.com/Raufjatoi/Object-Detection-App-in-Java) , a java based object detection app using yolov3 and v4
+
+## Courses
+
+I also have my mini youtube channel where i create some tutorials 
+* [ML playlist](https://youtube.com/playlist?list=PLTZ70XpJ2zMuKgSRRwmg1Khj65lzSnh35&si=CGtGVL0sBJSGhPdj)
+
+## Contact Me
+
+You can reach me at <raufpokemon00@icloud.com>.
+
+<!--
 ## Hi there, I'm Rauf! 👋🏼
 
 I'm a passionate machine learning engineer with a love for coding and data. My expertise lies in building intelligent systems that learn and adapt. 
@@ -9,7 +29,7 @@ You can also find me on **[Here](https://bento.me/rauf)**
 For more information about me, visit  **[My page](https://personal-web-page-lemon.vercel.app/index.html)**           
 
 ---
-<!--
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raufjatoi&count_private=true&show_icons=true&theme=cobalt&hide=contribs)
 ![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raufjatoi&layout=compact&theme=cobalt)
 
@@ -48,15 +68,15 @@ For more information about me, visit  **[My page](https://personal-web-page-lemo
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=Raufjatoi&repo=Mini-clyde&theme=nightowl)](https://github.com/Raufjatoi/Mini-clyde)
 
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=Raufjatoi&repo=Ruf&theme=nightowl)](https://github.com/Raufjatoi/Ruf)
--->
-## My work
+
+# My work over time 
 
 ## Feb/24
->[Multi Domain Price Estimator ](https://github.com/Raufjatoi/Multi-domain-price-estimator)             
->[Ruf My Mini API based Bot ](https://github.com/Raufjatoi/Ruf)             
+>[Multi Domain Price Estimator ](https://github.com/Raufjatoi/Multi-domain-price-estimator)              
+>[Ruf My Mini API based Bot ](https://github.com/Raufjatoi/Ruf)               
 
 ## March/24     
-> [Rr mini music player ](https://rr-music.vercel.app/)           
+> [Rr mini music player ](https://rr-music.vercel.app/)                
 > [Rr + ](https://rr-plus-git-main-raufs-projects-c9139f72.vercel.app/) ( paused. )                    
 
 ## April/24
@@ -97,3 +117,4 @@ Computer Vision Projects ( OpenCv , mediapipe and Yolo models )
 - [Pandas Series ](https://github.com/Raufjatoi/Pandas)        
 - [Data Visualization Series ](https://github.com/Raufjatoi/Data-Visualization)
 - [Educational Website ](https://elsa-ivory.vercel.app/)     
+-->
