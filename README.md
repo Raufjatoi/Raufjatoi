@@ -1,6 +1,6 @@
-# Hello!
+# Hi!
 
-I'm Rauf, an Artificial Intelligence student.
+I'm[Rauf](https://rauf-psi.vercel.app/), an Artificial Intelligence student.
 
 ## Projects
 
