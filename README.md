@@ -11,7 +11,8 @@ I'm [Rauf](https://rauf-psi.vercel.app/) , an Artificial Intelligence student.
 
 I also have my YouTube channel where I create tutorials:
 * [Machine Learning ](https://youtube.com/playlist?list=PLTZ70XpJ2zMuKgSRRwmg1Khj65lzSnh35&si=CGtGVL0sBJSGhPdj)
-* [Pandas](https://youtube.com/playlist?list=PLTZ70XpJ2zMuU_dscN1C_LUdF-YCw3OyN&si=F9co066WGq002Hoh) - Ongoing    
+* [Pandas](https://youtube.com/playlist?list=PLTZ70XpJ2zMuU_dscN1C_LUdF-YCw3OyN&si=F9co066WGq002Hoh)
+* [Data Visulization](https://youtube.com/playlist?list=PLTZ70XpJ2zMuMrqx0CxvFZ8rRnxx6rRh2&si=AhI57OOHVFxEyEtq) - Ongoing   
 
 ## Contact Me
 
