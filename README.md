@@ -15,6 +15,7 @@ I also have my YouTube channel where I create tutorials:
 * [Data Visulization](https://youtube.com/playlist?list=PLTZ70XpJ2zMuMrqx0CxvFZ8rRnxx6rRh2&si=AhI57OOHVFxEyEtq) - Ongoing       
 
 ## Other
+
 Other stuffs i do
 * [The Beginning of the kingdoms and the end of ones](https://medium.com/@raufpokemon00/the-beginning-of-the-kingdoms-and-the-end-of-ones-376e57add304)
 
