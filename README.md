@@ -14,8 +14,8 @@ I also have my YouTube channel where I create tutorials:
 * [Pandas](https://youtube.com/playlist?list=PLTZ70XpJ2zMuU_dscN1C_LUdF-YCw3OyN&si=F9co066WGq002Hoh)
 * [Data Visulization](https://youtube.com/playlist?list=PLTZ70XpJ2zMuMrqx0CxvFZ8rRnxx6rRh2&si=AhI57OOHVFxEyEtq) - Ongoing       
 
-## Other Stuffs 
-*[The Beginning of the Kingdoms and the End of Ones](https://medium.com/@raufpokemon00/the-beginning-of-the-kingdoms-and-the-end-of-ones-376e57add304)
+## Other
+* [The Beginning of the kingdoms and the end of ones](https://medium.com/@raufpokemon00/the-beginning-of-the-kingdoms-and-the-end-of-ones-376e57add304)
 
 ## Contact Me
 
