@@ -14,12 +14,13 @@ I also have my YouTube channel where I create tutorials:
 * [Pandas](https://youtube.com/playlist?list=PLTZ70XpJ2zMuU_dscN1C_LUdF-YCw3OyN&si=F9co066WGq002Hoh)
 * [Data Visulization](https://youtube.com/playlist?list=PLTZ70XpJ2zMuMrqx0CxvFZ8rRnxx6rRh2&si=AhI57OOHVFxEyEtq)
 * [Introduction to SQL](https://youtube.com/playlist?list=PLTZ70XpJ2zMtUAS18Qd0BfP09cGsed05Y&si=ke8n1zHmZYG9DiJl) -Ongoing    
-* [Deep Learning](https://youtube.com/playlist?list=PLTZ70XpJ2zMuNhXCnJ9aiJ8Ibwjh-cAl7&si=9ugUfj4kWzidnrVe) - Ongoing  
+* [Deep Learning](https://youtube.com/playlist?list=PLTZ70XpJ2zMuNhXCnJ9aiJ8Ibwjh-cAl7&si=9ugUfj4kWzidnrVe) -Ongoing  
 
 ## Other
 
 Other stuffs i do
 * [The Beginning of the kingdoms and the end of ones](https://medium.com/@raufpokemon00/the-beginning-of-the-kingdoms-and-the-end-of-ones-376e57add304)
+* [The Beginning of the kingdoms and the end of ones, part 2 : This is how it ends](https://medium.com/@raufpokemon00/the-beginning-of-the-kingdoms-and-the-end-of-ones-part-2-this-is-how-it-ends-292778e684a6)      
 
 ## Contact Me
 
