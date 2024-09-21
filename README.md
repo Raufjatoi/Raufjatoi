@@ -12,7 +12,9 @@ I'm [Rauf](https://rauf-psi.vercel.app/) , an Artificial Intelligence student.
 I also have my YouTube channel where I create tutorials:
 * [Machine Learning ](https://youtube.com/playlist?list=PLTZ70XpJ2zMuKgSRRwmg1Khj65lzSnh35&si=CGtGVL0sBJSGhPdj)
 * [Pandas](https://youtube.com/playlist?list=PLTZ70XpJ2zMuU_dscN1C_LUdF-YCw3OyN&si=F9co066WGq002Hoh)
-* [Data Visulization](https://youtube.com/playlist?list=PLTZ70XpJ2zMuMrqx0CxvFZ8rRnxx6rRh2&si=AhI57OOHVFxEyEtq)            
+* [Data Visulization](https://youtube.com/playlist?list=PLTZ70XpJ2zMuMrqx0CxvFZ8rRnxx6rRh2&si=AhI57OOHVFxEyEtq)
+* [Introduction to SQL](https://youtube.com/playlist?list=PLTZ70XpJ2zMtUAS18Qd0BfP09cGsed05Y&si=ke8n1zHmZYG9DiJl) -Ongoing    
+* [Deep Learning](https://youtube.com/playlist?list=PLTZ70XpJ2zMuNhXCnJ9aiJ8Ibwjh-cAl7&si=9ugUfj4kWzidnrVe) - Ongoing  
 
 ## Other
 
