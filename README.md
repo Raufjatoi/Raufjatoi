@@ -24,7 +24,7 @@ Other stuffs i do
 * [The Beginning of the kingdoms and the end of ones, part 2 : This is how it ends](https://medium.com/@raufpokemon00/the-beginning-of-the-kingdoms-and-the-end-of-ones-part-2-this-is-how-it-ends-292778e684a6)    
 * [Jack Ax1](https://medium.com/@raufpokemon00/jack-ax1-b4c6de00c47d)
 * [Jack Ax1 : Jox Takeover ](https://medium.com/@raufpokemon00/jack-ax1-jox-takeover-9408209ae98b)
-* [A Sight to Kainat](#) -comin soon 
+* [A Sight to Kainat planet](#) -Drawing these days 
 
 ## Contact Me
 
