@@ -21,7 +21,7 @@ I'm [Rauf](https://rauf-psi.vercel.app/), an Artificial Intelligence student.
 
 ## Articles
 
-> [!INFO]  
+> [!WRITE]  
 > * [Probability](https://medium.com/@raufpokemon00/probability-b17e3e051cf5)
 > * [Optimization](https://medium.com/@raufpokemon00/optimization-1a283083a50d)
 > * [Knowledge in AI](https://medium.com/@raufpokemon00/knowledge-in-ai-f4b159040929)
