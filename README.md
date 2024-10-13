@@ -14,8 +14,8 @@ I also have my YouTube channel where I create tutorials:
 * [Machine Learning ](https://youtube.com/playlist?list=PLTZ70XpJ2zMuKgSRRwmg1Khj65lzSnh35&si=CGtGVL0sBJSGhPdj)
 * [Pandas](https://youtube.com/playlist?list=PLTZ70XpJ2zMuU_dscN1C_LUdF-YCw3OyN&si=F9co066WGq002Hoh)
 * [Data Visulization](https://youtube.com/playlist?list=PLTZ70XpJ2zMuMrqx0CxvFZ8rRnxx6rRh2&si=AhI57OOHVFxEyEtq)
-* [Introduction to SQL](https://youtube.com/playlist?list=PLTZ70XpJ2zMtUAS18Qd0BfP09cGsed05Y&si=ke8n1zHmZYG9DiJl) -Ongoing    
-* [Deep Learning](https://youtube.com/playlist?list=PLTZ70XpJ2zMuNhXCnJ9aiJ8Ibwjh-cAl7&si=9ugUfj4kWzidnrVe) -Ongoing
+* [Introduction to SQL](https://youtube.com/playlist?list=PLTZ70XpJ2zMtUAS18Qd0BfP09cGsed05Y&si=ke8n1zHmZYG9DiJl)    
+* [Deep Learning](https://youtube.com/playlist?list=PLTZ70XpJ2zMuNhXCnJ9aiJ8Ibwjh-cAl7&si=9ugUfj4kWzidnrVe)
 
 ## Articles
 
@@ -32,7 +32,8 @@ Other stuffs i do
 * [The Beginning of the kingdoms and the end of ones, part 2 : This is how it ends](https://medium.com/@raufpokemon00/the-beginning-of-the-kingdoms-and-the-end-of-ones-part-2-this-is-how-it-ends-292778e684a6)    
 * [Jack Ax1](https://medium.com/@raufpokemon00/jack-ax1-b4c6de00c47d)
 * [Jack Ax1 : Jox Takeover ](https://medium.com/@raufpokemon00/jack-ax1-jox-takeover-9408209ae98b)
-* [Back in 2020 ](https://medium.com/@raufpokemon00/back-in-2020-b331edc0041b)  
+* [Back in 2020 ](https://medium.com/@raufpokemon00/back-in-2020-b331edc0041b)       
+* [YingX : Interport Planet](https://medium.com/@raufpokemon00/yingx-interport-planet-5b3d77036d0e)
 
 ## Contact Me
 
