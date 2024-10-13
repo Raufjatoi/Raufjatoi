@@ -18,7 +18,8 @@ I also have my YouTube channel where I create tutorials:
 * [Deep Learning](https://youtube.com/playlist?list=PLTZ70XpJ2zMuNhXCnJ9aiJ8Ibwjh-cAl7&si=9ugUfj4kWzidnrVe)    
  
 ## Articles   
-  
+
+* [6 Key steps in Machine Learning Project](https://medium.com/@raufpokemon00/6-key-steps-in-machine-learning-project-27baed560ac4)       
 * [Probability ](https://medium.com/@raufpokemon00/probability-b17e3e051cf5)     
 * [Optimization](https://medium.com/@raufpokemon00/optimization-1a283083a50d)    
 * [Knowledge in AI](https://medium.com/@raufpokemon00/knowledge-in-ai-f4b159040929)    
