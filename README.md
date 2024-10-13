@@ -37,4 +37,4 @@ Other stuffs i do
  
 ## Contact Me   
  
-You can reach me at <raufpokemon00@icloud.com>. just add those tags dont change anything else inwriting    
+You can reach me at <raufpokemon00@icloud.com>.      
