@@ -4,18 +4,20 @@ I'm [Rauf](https://rauf-psi.vercel.app/) , an Artificial Intelligence student.
 
 ## Projects  
 
-* [Railway Management System](https://github.com/Raufjatoi/Railway-Management-System) - Under work         
-* [Self Driving Car](https://github.com/Raufjatoi/Self-Driving-Car) - thinking            
-* [Object Detection App](https://github.com/Raufjatoi/Object-Detection-App-in-Java) - A Java-based object detection app using YOLOv3 and v4.                  
-* [Multi Domain Price Estimator](https://github.com/Raufjatoi/Multi-domain-price-estimator) - A web-based app that predicts prices across multiple domains.                   
-* [Multiple Disease Predictor (MDP) ](https://github.com/Raufjatoi/MDP) -paused 
+* [Railway Management System](https://github.com/Raufjatoi/Railway-Management-System) - 75% done 
+* [Facial Recognition](https://github.com/Raufjatoi/Facial_Recognition) - Under work            
+* [Object Detection App](https://github.com/Raufjatoi/Object-Detection-App-in-Java) - A Java-based object detection app using YOLOv3 and v4.                    
+* [Multi Domain Price Estimator](https://github.com/Raufjatoi/Multi-domain-price-estimator) - A web-based app that predicts prices across multiple domains.                  
+* [Multiple Disease Predictor (MDP) ](https://github.com/Raufjatoi/MDP) - paused on 50%                    
+* [Self Driving Car](https://github.com/Raufjatoi/Self-Driving-Car) - paused on 20%     
   
 ## Courses 
   
 I also have my YouTube channel where I create tutorials:   
 * [Introduction to Artificial Intelligence](https://youtube.com/playlist?list=PLTZ70XpJ2zMts70NPiFiJXfDy5X7bZ-Eq&si=RuMkDJt3_5vdC2rC) -ongoing  
 * [Deep Learning](https://youtube.com/playlist?list=PLTZ70XpJ2zMuNhXCnJ9aiJ8Ibwjh-cAl7&si=9ugUfj4kWzidnrVe)         
-* [Machine Learning ](https://youtube.com/playlist?list=PLTZ70XpJ2zMuKgSRRwmg1Khj65lzSnh35&si=CGtGVL0sBJSGhPdj)       
+* [Machine Learning ](https://youtube.com/playlist?list=PLTZ70XpJ2zMuKgSRRwmg1Khj65lzSnh35&si=CGtGVL0sBJSGhPdj)
+* [Web Development with Python](https://youtube.com/playlist?list=PLTZ70XpJ2zMv31q0P-SGhnNcEXRiZ3hCZ&si=A5O0OK0cm5zRA6QR)             
 * [Data Visulization](https://youtube.com/playlist?list=PLTZ70XpJ2zMuMrqx0CxvFZ8rRnxx6rRh2&si=AhI57OOHVFxEyEtq)     
 * [Introduction to SQL](https://youtube.com/playlist?list=PLTZ70XpJ2zMtUAS18Qd0BfP09cGsed05Y&si=ke8n1zHmZYG9DiJl)        
   
