@@ -10,7 +10,7 @@ I'm [Rauf](https://rauf-psi.vercel.app/) , an Artificial Intelligence student.
 * [Object Detection App](https://github.com/Raufjatoi/Object-Detection-App-in-Java) - A Java-based object detection app using YOLOv3 and v4.                    
 * [Multi Domain Price Estimator](https://github.com/Raufjatoi/Multi-domain-price-estimator) - A web-based app that predicts prices across multiple domains.                  
 * [Multiple Disease Predictor (MDP) ](https://github.com/Raufjatoi/MDP) - paused on 50%                    
-* [Self Driving Car](https://github.com/Raufjatoi/Self-Driving-Car) - paused on 20%     
+* [Self Driving Car ( software )](https://github.com/Raufjatoi/Self-Driving-Car) - paused on 20%     
   
 ## Courses 
   
