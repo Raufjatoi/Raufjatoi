@@ -4,8 +4,9 @@ I'm [Rauf](https://rauf-psi.vercel.app/) , an Artificial Intelligence student.
 
 ## Projects  
 
-* [Railway Management System](https://github.com/Raufjatoi/Railway-Management-System) - 90% done   
-* [Facial Recognition](https://github.com/Raufjatoi/Facial_Recognition) - Under work            
+* [Facial Recognition](https://github.com/Raufjatoi/Facial_Recognition) - Under work       
+* [Time Table Generator](https://github.com/Raufjatoi/Time_Table_Generator) - Under work                     
+* [Railway Management System](https://railway-management-system-by-raufjatoi.streamlit.app/) - Streamlit and SQLite-based railway management app for bookings, admin controls.         
 * [Object Detection App](https://github.com/Raufjatoi/Object-Detection-App-in-Java) - A Java-based object detection app using YOLOv3 and v4.                    
 * [Multi Domain Price Estimator](https://github.com/Raufjatoi/Multi-domain-price-estimator) - A web-based app that predicts prices across multiple domains.                  
 * [Multiple Disease Predictor (MDP) ](https://github.com/Raufjatoi/MDP) - paused on 50%                    
