@@ -11,7 +11,7 @@ I'm [Rauf](https://rauf-psi.vercel.app/) , an Artificial Intelligence student.
 * [Multi Domain Price Estimator](https://github.com/Raufjatoi/Multi-domain-price-estimator) - A web-based app that predicts prices across multiple domains.                  
 * [Multiple Disease Predictor (MDP) ](https://github.com/Raufjatoi/MDP) - paused on 50%                        
   
-## Courses 
+## Tutorials
   
 I also have my YouTube channel where I create tutorials:   
 * [Introduction to Data Structures](https://raufjatoi.github.io/Introduction-to-Data-Structure/) - ongoing 
