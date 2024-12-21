@@ -20,7 +20,15 @@ I also have my YouTube channel where I create tutorials:
 * [Deep Learning](https://youtube.com/playlist?list=PLTZ70XpJ2zMuNhXCnJ9aiJ8Ibwjh-cAl7&si=9ugUfj4kWzidnrVe)         
 * [Machine Learning ](https://youtube.com/playlist?list=PLTZ70XpJ2zMuKgSRRwmg1Khj65lzSnh35&si=CGtGVL0sBJSGhPdj)         
 * [Data Visulization](https://youtube.com/playlist?list=PLTZ70XpJ2zMuMrqx0CxvFZ8rRnxx6rRh2&si=AhI57OOHVFxEyEtq)     
-* [Introduction to SQL](https://youtube.com/playlist?list=PLTZ70XpJ2zMtUAS18Qd0BfP09cGsed05Y&si=ke8n1zHmZYG9DiJl)        
+* [Introduction to SQL](https://youtube.com/playlist?list=PLTZ70XpJ2zMtUAS18Qd0BfP09cGsed05Y&si=ke8n1zHmZYG9DiJl)
+
+## Courses
+I also taken courses from Harvard University ( CS50 ):
+* [CS50AI](https://github.com/Raufjatoi/AI/blob/main/CERTIFICATE/CS50AI.png)        
+* [CS50SQL](https://certificates.cs50.io/5474ee9d-9d6f-4d14-bf3f-904daddc9ccd.pdf?size=letter)
+* [CS50P (python)](https://certificates.cs50.io/ff15df9f-1e63-4761-b65b-643483a373af.pdf?size=letter)
+* [CS50x](https://github.com/Raufjatoi/CS50x/blob/main/CS50x%20certificate/CS50x.png)         
+
   
  
 ## Articles   
