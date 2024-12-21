@@ -23,7 +23,7 @@ I also have my YouTube channel where I create tutorials:
 * [Introduction to SQL](https://youtube.com/playlist?list=PLTZ70XpJ2zMtUAS18Qd0BfP09cGsed05Y&si=ke8n1zHmZYG9DiJl)
 
 ## Courses
-I also taken courses from Harvard University ( CS50 ):
+I have taken courses from Harvard University ( CS50 ):
 * [CS50AI](https://github.com/Raufjatoi/AI/blob/main/CERTIFICATE/CS50AI.png)        
 * [CS50SQL](https://certificates.cs50.io/5474ee9d-9d6f-4d14-bf3f-904daddc9ccd.pdf?size=letter)
 * [CS50P (python)](https://certificates.cs50.io/ff15df9f-1e63-4761-b65b-643483a373af.pdf?size=letter)
