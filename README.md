@@ -3,20 +3,20 @@
 I'm [Rauf](https://rauf-psi.vercel.app/) , an Artificial Intelligence student.      
 
 ## Projects  
-
+* [Mini Self Driving Car ( hardware based )](https://github.com/Raufjatoi/Mini-Self-Driving-Car) - working in these winter vications  
 * [Facial Recognition](https://github.com/Raufjatoi/Facial_Recognition) - A Streamlit-based application for facial recognition that supports both live video feed and uploaded images.       
 * [Time Table Generator](https://github.com/Raufjatoi/Time_Table_Generator) - Under work                     
 * [Railway Management System](https://railway-management-system-by-raufjatoi.streamlit.app/) - Streamlit and SQLite-based railway management app for bookings, admin controls.         
 * [Object Detection App](https://github.com/Raufjatoi/Object-Detection-App-in-Java) - A Java-based object detection app using YOLOv3 and v4.                    
 * [Multi Domain Price Estimator](https://github.com/Raufjatoi/Multi-domain-price-estimator) - A web-based app that predicts prices across multiple domains.                  
-* [Multiple Disease Predictor (MDP) ](https://github.com/Raufjatoi/MDP) - paused on 50%                    
-* [Self Driving Car ( software )](https://github.com/Raufjatoi/Self-Driving-Car) - paused on 20%     
+* [Multiple Disease Predictor (MDP) ](https://github.com/Raufjatoi/MDP) - paused on 50%                        
   
 ## Courses 
   
 I also have my YouTube channel where I create tutorials:   
+* [Introduction to Data Structures](https://raufjatoi.github.io/Introduction-to-Data-Structure/) - ongoing 
 * [Introduction to Artificial Intelligence](https://youtube.com/playlist?list=PLTZ70XpJ2zMts70NPiFiJXfDy5X7bZ-Eq&si=RuMkDJt3_5vdC2rC) 
-* [Web Development with Python](https://youtube.com/playlist?list=PLTZ70XpJ2zMv31q0P-SGhnNcEXRiZ3hCZ&si=A5O0OK0cm5zRA6QR) -ongoing         
+* [Web Development with Python](https://youtube.com/playlist?list=PLTZ70XpJ2zMv31q0P-SGhnNcEXRiZ3hCZ&si=A5O0OK0cm5zRA6QR)         
 * [Deep Learning](https://youtube.com/playlist?list=PLTZ70XpJ2zMuNhXCnJ9aiJ8Ibwjh-cAl7&si=9ugUfj4kWzidnrVe)         
 * [Machine Learning ](https://youtube.com/playlist?list=PLTZ70XpJ2zMuKgSRRwmg1Khj65lzSnh35&si=CGtGVL0sBJSGhPdj)         
 * [Data Visulization](https://youtube.com/playlist?list=PLTZ70XpJ2zMuMrqx0CxvFZ8rRnxx6rRh2&si=AhI57OOHVFxEyEtq)     
