@@ -35,7 +35,8 @@ I also have my YouTube channel where I create tutorials:
 
 * [Data Structures](https://raufjatoi.github.io/Introduction-to-Data-Structure/)
 * [AI](https://raufjatoi.github.io/AI/)    
-* [Database](#) - also coming  
+* [Database](https://raufjatoi.github.io/SQL/)   
+    
 ## Other   
 
 Other stuffs i do   
