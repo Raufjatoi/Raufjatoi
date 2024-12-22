@@ -14,7 +14,7 @@ I'm [Rauf](https://rauf-psi.vercel.app/) , an Artificial Intelligence student.
 ## Tutorials
   
 I also have my YouTube channel where I create tutorials:   
-* [Introduction to Data Structures](https://raufjatoi.github.io/Introduction-to-Data-Structure/) - ongoing 
+* [Introduction to Data Structures](https://youtube.com/playlist?list=PLTZ70XpJ2zMv4mqoqG9i4t-bA7DniXAwO&si=M3jT2G3Klf3rmo4b) - ongoing 
 * [Introduction to Artificial Intelligence](https://youtube.com/playlist?list=PLTZ70XpJ2zMts70NPiFiJXfDy5X7bZ-Eq&si=RuMkDJt3_5vdC2rC) 
 * [Web Development with Python](https://youtube.com/playlist?list=PLTZ70XpJ2zMv31q0P-SGhnNcEXRiZ3hCZ&si=A5O0OK0cm5zRA6QR)         
 * [Deep Learning](https://youtube.com/playlist?list=PLTZ70XpJ2zMuNhXCnJ9aiJ8Ibwjh-cAl7&si=9ugUfj4kWzidnrVe)         
