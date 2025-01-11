@@ -14,7 +14,8 @@ I'm [Rauf](https://rauf-psi.vercel.app/) , an Artificial Intelligence student.
 ## Tutorials
   
 I also have my YouTube channel where I create tutorials:   
-* [Introduction to Data Structures](https://youtube.com/playlist?list=PLTZ70XpJ2zMv4mqoqG9i4t-bA7DniXAwO&si=M3jT2G3Klf3rmo4b) - ongoing 
+* [Frontend Development](https://youtube.com/playlist?list=PLTZ70XpJ2zMvxeD6spfcOL_UChq1WS-SK&si=80S40kTOH0IxsXKy) - Ongoin        
+* [Introduction to Data Structures](https://youtube.com/playlist?list=PLTZ70XpJ2zMv4mqoqG9i4t-bA7DniXAwO&si=M3jT2G3Klf3rmo4b)   
 * [Introduction to Artificial Intelligence](https://youtube.com/playlist?list=PLTZ70XpJ2zMts70NPiFiJXfDy5X7bZ-Eq&si=RuMkDJt3_5vdC2rC) 
 * [Web Development with Python](https://youtube.com/playlist?list=PLTZ70XpJ2zMv31q0P-SGhnNcEXRiZ3hCZ&si=A5O0OK0cm5zRA6QR)         
 * [Deep Learning](https://youtube.com/playlist?list=PLTZ70XpJ2zMuNhXCnJ9aiJ8Ibwjh-cAl7&si=9ugUfj4kWzidnrVe)         
@@ -41,10 +42,12 @@ I have taken courses from Harvard University ( CS50 ):
 
 ## Web Notes   
 
-* [Data Structures](https://raufjatoi.github.io/Introduction-to-Data-Structure/)
-* [AI](https://raufjatoi.github.io/AI/)    
-* [Database](https://raufjatoi.github.io/SQL/)   
-    
+
+* [Frontend Development](https://raufjatoi.github.io/Frontend-Development/)     
+* [Data Structures](https://raufjatoi.github.io/Introduction-to-Data-Structure/)     
+* [AI](https://raufjatoi.github.io/AI/)      
+* [Database](https://raufjatoi.github.io/SQL/)     
+     
 ## Other   
 
 Other stuffs i do   
