@@ -3,7 +3,7 @@
 I'm [Rauf](https://rauf-psi.vercel.app/) , an Artificial Intelligence student.      
 
 ## Projects  
-* [Mini Self Driving Car ( hardware based )](https://github.com/Raufjatoi/Mini-Self-Driving-Car) - working in these winter vications  
+* [Mini Self Driving Car ( hardware based )](https://github.com/Raufjatoi/Mini-Self-Driving-Car) - working in these days  
 * [Facial Recognition](https://github.com/Raufjatoi/Facial_Recognition) - A Streamlit-based application for facial recognition that supports both live video feed and uploaded images.       
 * [Time Table Generator](https://github.com/Raufjatoi/Time_Table_Generator) - Under work                     
 * [Railway Management System](https://railway-management-system-by-raufjatoi.streamlit.app/) - Streamlit and SQLite-based railway management app for bookings, admin controls.         
@@ -31,7 +31,6 @@ I have taken courses from Harvard University ( CS50 ):
 * [CS50x](https://github.com/Raufjatoi/CS50x/blob/main/CS50x%20certificate/CS50x.png)         
 
   
- 
 ## Articles   
 
 * [TensorFlow : A Deep Learning Library](https://medium.com/python-in-plain-english/tensorflow-a-deep-learning-library-7b8361b67536)         
