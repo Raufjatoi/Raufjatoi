@@ -57,8 +57,9 @@ Other stuffs i do
 * [Back in 2020 ](https://medium.com/@raufpokemon00/back-in-2020-b331edc0041b)          
 * [YingX : Interport Planet](https://medium.com/@raufpokemon00/yingx-interport-planet-5b3d77036d0e)
 
-History AI Editor using tools like Claude, ChatGPT, and DeepSeek for text; Eleven Labs for audio; Leonardo, DALL·E, and MidJourney for image generation; Runway for motion and video generation; and CapCut and Canva for editing.              
-*[History with AI - Ahsan and Me](https://www.youtube.com/@History_With_Ai-1)        
+History AI Editor using tools like Claude, ChatGPT, and DeepSeek for text; Eleven Labs for audio; Leonardo, DALL·E, and MidJourney for image generation; Runway for motion and video generation; and CapCut and Canva for editing.                 
+ 
+* [History with AI - Ahsan and Me](https://www.youtube.com/@History_With_Ai-1)        
  
 ## Contact Me   
  
