@@ -59,7 +59,11 @@ Other stuffs i do
 
 History AI Editor using tools like Claude, ChatGPT, and DeepSeek for text; Eleven Labs for audio; Leonardo, DALL·E, and MidJourney for image generation; Runway for motion and video generation; and CapCut and Canva for editing.Checkout our channel below where you see our work 😊:
  
-* [History with AI - Ahsan and Me](https://www.youtube.com/@History_With_Ai-1)        
+* [History with AI - Ahsan and Me](https://www.youtube.com/@History_With_Ai-1)
+
+### AI Songs : Created by me with customized  lyrics and beats + generas 
+
+* [Songs](https://www.youtube.com/playlist?list=PLTZ70XpJ2zMvwDMawX3EKCco9ZZ4LpyH_)
  
 ## Contact Me   
  
