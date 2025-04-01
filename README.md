@@ -3,9 +3,10 @@
 I'm [Rauf](https://rauf-psi.vercel.app/) , an Artificial Intelligence student.      
 
 ## Projects  
-* [Mini Self Driving Car ( hardware based )](https://github.com/Raufjatoi/Mini-Self-Driving-Car) - working in these days  
+* [Mocka](https://mocka-eosin.vercel.app/) - Practice Interviews with AI voice Agents.
+* [Mini Self Driving Car ( hardware based )](https://github.com/Raufjatoi/Mini-Self-Driving-Car) - A Mini Self Driving Car that Detects Objects and move using sensors. 
 * [Facial Recognition](https://github.com/Raufjatoi/Facial_Recognition) - A Streamlit-based application for facial recognition that supports both live video feed and uploaded images.       
-* [Time Table Generator](https://github.com/Raufjatoi/Time_Table_Generator) - Under work                     
+* [Time Table Generator](https://github.com/Raufjatoi/Time_Table_Generator) - Generate A timetable based on contraints and the data in the database.                    
 * [Railway Management System](https://railway-management-system-by-raufjatoi.streamlit.app/) - Streamlit and SQLite-based railway management app for bookings, admin controls.         
 * [Object Detection App](https://github.com/Raufjatoi/Object-Detection-App-in-Java) - A Java-based object detection app using YOLOv3 and v4.                    
 * [Multi Domain Price Estimator](https://github.com/Raufjatoi/Multi-domain-price-estimator) - A web-based app that predicts prices across multiple domains.                  
@@ -14,7 +15,7 @@ I'm [Rauf](https://rauf-psi.vercel.app/) , an Artificial Intelligence student.
 ## Tutorials
   
 I also have my YouTube channel where I create tutorials:   
-* [Frontend Development](https://youtube.com/playlist?list=PLTZ70XpJ2zMvxeD6spfcOL_UChq1WS-SK&si=80S40kTOH0IxsXKy) - Ongoin        
+* [Frontend Development](https://youtube.com/playlist?list=PLTZ70XpJ2zMvxeD6spfcOL_UChq1WS-SK&si=80S40kTOH0IxsXKy) - recent one        
 * [Introduction to Data Structures](https://youtube.com/playlist?list=PLTZ70XpJ2zMv4mqoqG9i4t-bA7DniXAwO&si=M3jT2G3Klf3rmo4b)   
 * [Introduction to Artificial Intelligence](https://youtube.com/playlist?list=PLTZ70XpJ2zMts70NPiFiJXfDy5X7bZ-Eq&si=RuMkDJt3_5vdC2rC) 
 * [Web Development with Python](https://youtube.com/playlist?list=PLTZ70XpJ2zMv31q0P-SGhnNcEXRiZ3hCZ&si=A5O0OK0cm5zRA6QR)         
@@ -57,11 +58,12 @@ Other stuffs i do
 * [Back in 2020 ](https://medium.com/@raufpokemon00/back-in-2020-b331edc0041b)          
 * [YingX : Interport Planet](https://medium.com/@raufpokemon00/yingx-interport-planet-5b3d77036d0e)
 
-History AI Editor using tools like Claude, ChatGPT, and DeepSeek for text; Eleven Labs for audio; Leonardo, DALL·E, and MidJourney for image generation; Runway for motion and video generation; and CapCut and Canva for editing.Checkout our channel below where you see our work 😊:
+History AI Editor using tools like Claude, ChatGPT, and DeepSeek for text; Eleven Labs for audio; Leonardo, DALL·E, and MidJourney for image generation; Runway for motion and video generation; and CapCut and Canva for editing also for bg sounds and music now using suno ai.Checkout our channel below where you see our work 😊:
  
 * [History with AI - Ahsan and Me](https://www.youtube.com/@History_With_Ai-1)
+* [BattleEchoes - Umar and Me](https://www.youtube.com/@militaryvedios)
 
-### AI Songs : Created by me with customized  lyrics and beats + generas 
+### AI Songs : Created by me with customized lyrics and beats + generas ( just a hobby to write now with ai can make them alive : ) ) 
 
 * [Songs](https://www.youtube.com/playlist?list=PLTZ70XpJ2zMvwDMawX3EKCco9ZZ4LpyH_)
  
