@@ -40,7 +40,7 @@ I have taken courses from Harvard University ( CS50 ):
 * [Long Short-Term Memory (LSTM)](https://medium.com/python-in-plain-english/long-short-term-memory-lstm-3ad9a68c052b)         
 * [Retrieval-Augmented Generation (RAG)](https://medium.com/python-in-plain-english/retrieval-augmented-generation-rag-14d05a8397bd)        
 * [Large Language Models (LLMs)](https://medium.com/python-in-plain-english/large-language-models-llms-c05ba727f23e)         
-* [Facial Recognition in Python](https://medium.com/@raufpokemon00/facial-recognition-in-python-fc9229555eb4)
+* [Facial Recognition in Python](https://medium.com/@raufpokemon00/facial-recognition-in-python-fc9229555eb4)                  
 ...               
 
 ## Web Notes   
