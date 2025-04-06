@@ -3,14 +3,12 @@
 I'm [Rauf](https://rauf-psi.vercel.app/) , an Artificial Intelligence student.      
 
 ## Projects  
+* [Regen](https://github.com/Raufjatoi/Regen) - My first Saas Web App ( workin these days ).
 * [Mocka](https://mocka-eosin.vercel.app/) - Practice Interviews with AI voice Agents.
 * [Mini Self Driving Car ( hardware based )](https://github.com/Raufjatoi/Mini-Self-Driving-Car) - A Mini Self Driving Car that Detects Objects and move using sensors. 
 * [Facial Recognition](https://github.com/Raufjatoi/Facial_Recognition) - A Streamlit-based application for facial recognition that supports both live video feed and uploaded images.       
-* [Time Table Generator](https://github.com/Raufjatoi/Time_Table_Generator) - Generate A timetable based on contraints and the data in the database.                    
-* [Railway Management System](https://railway-management-system-by-raufjatoi.streamlit.app/) - Streamlit and SQLite-based railway management app for bookings, admin controls.         
-* [Object Detection App](https://github.com/Raufjatoi/Object-Detection-App-in-Java) - A Java-based object detection app using YOLOv3 and v4.                    
-* [Multi Domain Price Estimator](https://github.com/Raufjatoi/Multi-domain-price-estimator) - A web-based app that predicts prices across multiple domains.                  
-* [Multiple Disease Predictor (MDP) ](https://github.com/Raufjatoi/MDP) - paused on 50%                        
+* [Time Table Generator](https://github.com/Raufjatoi/Time_Table_Generator) - Generate A timetable based on contraints and the data in the database.                                         
+* [Multi Domain Price Estimator](https://github.com/Raufjatoi/Multi-domain-price-estimator) - A web-based app that predicts prices across multiple domains.                                       
   
 ## Tutorials
   
