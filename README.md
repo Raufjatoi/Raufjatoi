@@ -3,6 +3,7 @@
 I'm [Rauf](https://rauf-psi.vercel.app/) , an Artificial Intelligence student.      
 
 ## Projects  
+
 * [Regen](https://github.com/Raufjatoi/Regen) - My first Saas Web App ( workin these days ).
 * [Mocka](https://mocka-eosin.vercel.app/) - Practice Interviews with AI voice Agents.
 * [Facial Recognition](https://github.com/Raufjatoi/Facial_Recognition) - A Streamlit-based application for facial recognition that supports both live video feed and uploaded images.       
@@ -23,6 +24,7 @@ I also have my YouTube channel where I create tutorials:
 * [Introduction to SQL](https://youtube.com/playlist?list=PLTZ70XpJ2zMtUAS18Qd0BfP09cGsed05Y&si=ke8n1zHmZYG9DiJl)
 
 ## Courses
+
 I have taken courses from Harvard University ( CS50 ):
 * [CS50AI](https://github.com/Raufjatoi/AI/blob/main/CERTIFICATE/CS50AI.png)        
 * [CS50SQL](https://certificates.cs50.io/5474ee9d-9d6f-4d14-bf3f-904daddc9ccd.pdf?size=letter)
@@ -32,6 +34,8 @@ I have taken courses from Harvard University ( CS50 ):
   
 ## Articles   
 
+* [Introduction to Arduino: Fundamentals and a Motor Driver Project](https://medium.com/@raufpokemon00/introduction-to-arduino-fundamentals-and-a-motor-driver-project-c206a7f479ce)
+* [Mern Stack Guide](https://medium.com/@raufpokemon00/mern-stack-guide-fd39a0112e86)
 * [TensorFlow : A Deep Learning Library](https://medium.com/python-in-plain-english/tensorflow-a-deep-learning-library-7b8361b67536)         
 * [Long Short-Term Memory (LSTM)](https://medium.com/python-in-plain-english/long-short-term-memory-lstm-3ad9a68c052b)         
 * [Retrieval-Augmented Generation (RAG)](https://medium.com/python-in-plain-english/retrieval-augmented-generation-rag-14d05a8397bd)        
@@ -39,7 +43,6 @@ I have taken courses from Harvard University ( CS50 ):
 * [Facial Recognition in Python](https://medium.com/@raufpokemon00/facial-recognition-in-python-fc9229555eb4)                
 
 ## Web Notes   
-
 
 * [Frontend Development](https://raufjatoi.github.io/Frontend-Development/)     
 * [Data Structures](https://raufjatoi.github.io/Introduction-to-Data-Structure/)     
@@ -61,8 +64,9 @@ History AI Editor using tools like Claude, ChatGPT, and DeepSeek for text; Eleve
 * [History with AI - Ahsan and Me](https://www.youtube.com/@History_With_Ai-1)
 * [BattleEchoes - Umar and Me](https://www.youtube.com/@militaryvedios)
 
-### AI Songs : Created by me with customized lyrics and beats + generas ( just a hobby to write now with ai can make them alive : ) ) 
+### AI Songs
 
+Just a hobby to write songs and noe w/AI can make them alive hehe 🙃
 * [Songs](https://www.youtube.com/playlist?list=PLTZ70XpJ2zMvwDMawX3EKCco9ZZ4LpyH_)
  
 ## Contact Me   
