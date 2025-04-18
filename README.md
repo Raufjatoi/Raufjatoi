@@ -4,7 +4,7 @@ I'm [Rauf](https://rauf-psi.vercel.app/) , an Artificial Intelligence student.
 
 ## Projects  
 
-* [Multilingual Chatbot](https://multilingual-chatbot-three.vercel.app/) - A Chatbot that can chat in multiple languages using Gemini API.
+* [Multilingual Chatbot](https://multilingual-chatbot-three.vercel.app/) - A Chatbot that can chat in multiple languages using Compound Beta - GROQ.
 * [Mocka](https://mocka-eosin.vercel.app/) - Practice Interviews with AI voice Agents.
 * [Facial Recognition](https://github.com/Raufjatoi/Facial_Recognition) - A Streamlit-based application for facial recognition that supports both live video feed and uploaded images.       
 * [Time Table Generator](https://github.com/Raufjatoi/Time_Table_Generator) - Generate A timetable based on contraints and the data in the database.                                         
