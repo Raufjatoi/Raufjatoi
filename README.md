@@ -52,8 +52,8 @@ I have taken courses from Harvard University ( CS50 ):
 
 ## SaaS Prototypes 
 
-Vibe Code Prototypes built with React/Vite, Tailwind/Shadcn, Three.js, Framer Motion, and more, Featuring my creative ideas and others inspiring concepts worth exploring.
-*[Insta](https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MDQxOTc5NTcyMTgwMTA1?igsh=NHMybzNqZWpiejdu)                                                                 
+Vibe Code Prototypes built with React/Vite, Tailwind/Shadcn, Three.js, Framer Motion, and more, Featuring my creative ideas and others inspiring concepts worth exploring.                    
+* [Insta](https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MDQxOTc5NTcyMTgwMTA1?igsh=NHMybzNqZWpiejdu)                                                                 
      
 ## Other   
 
