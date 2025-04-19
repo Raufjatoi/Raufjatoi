@@ -48,7 +48,12 @@ I have taken courses from Harvard University ( CS50 ):
 * [Frontend Development](https://raufjatoi.github.io/Frontend-Development/)     
 * [Data Structures](https://raufjatoi.github.io/Introduction-to-Data-Structure/)     
 * [AI](https://raufjatoi.github.io/AI/)      
-* [Database](https://raufjatoi.github.io/SQL/)     
+* [Database](https://raufjatoi.github.io/SQL/)
+
+## SaaS Prototypes 
+
+Vibe Code Prototypes built with React/Vite, Tailwind/Shadcn, Three.js, Framer Motion, and more, Featuring my creative ideas and others inspiring concepts worth exploring.
+*[Insta](https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MDQxOTc5NTcyMTgwMTA1?igsh=NHMybzNqZWpiejdu)                                                                 
      
 ## Other   
 
