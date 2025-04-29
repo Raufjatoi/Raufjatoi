@@ -1,6 +1,6 @@
 # Hi!
 
-I'm [Rauf](https://rauf-psi.vercel.app/) , an Artificial Intelligence student.      
+I'm [Rauf](https://rauf-psi.vercel.app/), Full-Stack Developer and Artificial Intelligence student.  
 
 ## Projects  
 
