@@ -10,6 +10,11 @@ I'm [Rauf](https://rauf-psi.vercel.app/), Full-Stack Developer and Artificial In
 * [Time Table Generator](https://github.com/Raufjatoi/Time_Table_Generator) - Generate A timetable based on contraints and the data in the database.                                         
 * [Multi Domain Price Estimator](https://github.com/Raufjatoi/Multi-domain-price-estimator) - A web-based app that predicts prices across multiple domains.          
   ...
+
+## Circle Project Series ( Vibe Coding )
+* [🔵 Idea2Prompt](https://idea2prompt.vercel.app/) - Turn your idea into a well-defined prompt.
+* [🟣 DiagramGen](https://diagrams-gen.vercel.app/) - AI generates Mermaid diagrams from text.      
+
   
 ## Tutorials
   
