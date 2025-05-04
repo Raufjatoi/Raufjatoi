@@ -14,7 +14,8 @@ I'm [Rauf](https://rauf-psi.vercel.app/), Full-Stack Developer and Artificial In
 ## Circle Project Series ( Vibe Coding )
 * [🔵 Idea2Prompt](https://idea2prompt.vercel.app/) - Turn your idea into a well-defined prompt.             
 * [🟣 DiagramGen](https://diagrams-gen.vercel.app/) - AI generates Mermaid diagrams from text.              
-* [🟢 GreenNotes](https://greennotes.vercel.app/) - Write Notes; AI corrects grammar.       
+* [🟢 GreenNotes](https://greennotes.vercel.app/) - Write Notes; AI corrects grammar.
+* [⚪ CircleChat](https://circle-chat-rauf.vercel.app) - Chat with your favirate characters or create one ; ) , (did'nt find the gray circle lol)    
 
   
 ## Tutorials
