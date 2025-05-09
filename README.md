@@ -16,7 +16,8 @@ I'm [Rauf](https://rauf-psi.vercel.app/), Full-Stack Developer and Artificial In
 * [🟣 DiagramGen](https://diagrams-gen.vercel.app/) - AI generates Mermaid diagrams from text.              
 * [🟢 GreenNotes](https://greennotes.vercel.app/) - Write Notes; AI corrects grammar.
 * [⚪ CircleChat](https://circle-chat-rauf.vercel.app) - Chat with your favirate characters or create one ; ) , (did'nt find the gray circle lol).                             
-* [🔴 EmailParser+](https://email-parser-plus.vercel.app/) - Email parser with advance ai mode to analyze emails too with the basic parsing one.                            
+* [🔴 EmailParser+](https://email-parser-plus.vercel.app/) - Email parser with advance ai mode to analyze emails too with the basic parsing one.
+* [🟡 Yellow Notes ](https://yellow-notes.vercel.app/) - Smart AI-Powered Notes Generator.                              
 
   
 ## Tutorials
