@@ -19,6 +19,7 @@ I'm [Rauf](https://rauf-psi.vercel.app/), Full-Stack Developer and Artificial In
 * [🔴 EmailParser+](https://email-parser-plus.vercel.app/) - Email parser with advance ai mode to analyze emails too with the basic parsing one.
 * [🟡 Yellow Notes ](https://yellow-notes.vercel.app/) - Smart AI-Powered Notes Generator.
 * [🟤 CookPal](https://cook-pal.vercel.app/) - Your Intelligent Fridge-to-Recipe AI Assistant.
+* [⚫ Project Roulette](https://project-roulette.vercel.app/) - A unified platform to discover ideas, create projects, and collaborate seamlessly.     
 
   
 ## Tutorials
