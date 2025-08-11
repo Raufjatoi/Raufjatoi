@@ -4,6 +4,7 @@ I'm [Rauf](https://rauf-psi.vercel.app/), Full-Stack Developer and Artificial In
 
 ## Projects  
 
+* [P Labs](p-labs.vercel.app) - Generate ML models by describing your ideas.
 * [Multilingual Chatbot](https://multilingual-chatbot-three.vercel.app/) - A Chatbot that can chat in multiple languages using Compound Beta - GROQ.
 * [Mocka](https://mocka-eosin.vercel.app/) - Practice Interviews with AI voice Agents.
 * [Facial Recognition](https://github.com/Raufjatoi/Facial_Recognition) - A Streamlit-based application for facial recognition that supports both live video feed and uploaded images.       
