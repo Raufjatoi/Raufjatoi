@@ -25,42 +25,28 @@ I'm [Rauf](https://rauf-psi.vercel.app/), Full-Stack Developer and Artificial In
   
 ## Tutorials
   
-I also have my YouTube channel where I create tutorials:   
-* [Frontend Development](https://youtube.com/playlist?list=PLTZ70XpJ2zMvxeD6spfcOL_UChq1WS-SK&si=80S40kTOH0IxsXKy) - recent one        
-* [Introduction to Data Structures](https://youtube.com/playlist?list=PLTZ70XpJ2zMv4mqoqG9i4t-bA7DniXAwO&si=M3jT2G3Klf3rmo4b)   
-* [Introduction to Artificial Intelligence](https://youtube.com/playlist?list=PLTZ70XpJ2zMts70NPiFiJXfDy5X7bZ-Eq&si=RuMkDJt3_5vdC2rC) 
-* [Web Development with Python](https://youtube.com/playlist?list=PLTZ70XpJ2zMv31q0P-SGhnNcEXRiZ3hCZ&si=A5O0OK0cm5zRA6QR)         
-* [Deep Learning](https://youtube.com/playlist?list=PLTZ70XpJ2zMuNhXCnJ9aiJ8Ibwjh-cAl7&si=9ugUfj4kWzidnrVe)         
-* [Machine Learning ](https://youtube.com/playlist?list=PLTZ70XpJ2zMuKgSRRwmg1Khj65lzSnh35&si=CGtGVL0sBJSGhPdj)         
-* [Data Visulization](https://youtube.com/playlist?list=PLTZ70XpJ2zMuMrqx0CxvFZ8rRnxx6rRh2&si=AhI57OOHVFxEyEtq)     
-* [Introduction to SQL](https://youtube.com/playlist?list=PLTZ70XpJ2zMtUAS18Qd0BfP09cGsed05Y&si=ke8n1zHmZYG9DiJl)
+I also have my YouTube channel where I used to create tutorials:   
+* [Frontend Development](https://youtube.com/playlist?list=PLTZ70XpJ2zMvxeD6spfcOL_UChq1WS-SK&si=80S40kTOH0IxsXKy) - recent one           
+* [Introduction to Artificial Intelligence](https://youtube.com/playlist?list=PLTZ70XpJ2zMts70NPiFiJXfDy5X7bZ-Eq&si=RuMkDJt3_5vdC2rC)
+* [Deep Learning](https://youtube.com/playlist?list=PLTZ70XpJ2zMuNhXCnJ9aiJ8Ibwjh-cAl7&si=9ugUfj4kWzidnrVe)
+  ...
 
 ## Courses
 
 I have taken courses from Harvard University ( CS50 ):
-* [CS50AI](https://github.com/Raufjatoi/AI/blob/main/CERTIFICATE/CS50AI.png)        
-* [CS50SQL](https://certificates.cs50.io/5474ee9d-9d6f-4d14-bf3f-904daddc9ccd.pdf?size=letter)
+* [CS50AI](https://github.com/Raufjatoi/AI/blob/main/CERTIFICATE/CS50AI.png) 
 * [CS50P (python)](https://certificates.cs50.io/ff15df9f-1e63-4761-b65b-643483a373af.pdf?size=letter)
-* [CS50x](https://github.com/Raufjatoi/CS50x/blob/main/CS50x%20certificate/CS50x.png)         
+* [CS50x](https://github.com/Raufjatoi/CS50x/blob/main/CS50x%20certificate/CS50x.png)
+  ...
 
   
 ## Articles   
 
-* [Introduction to Arduino: Fundamentals and a Motor Driver Project](https://medium.com/@raufpokemon00/introduction-to-arduino-fundamentals-and-a-motor-driver-project-c206a7f479ce)
-* [Mern Stack Guide](https://medium.com/@raufpokemon00/mern-stack-guide-fd39a0112e86)
-* [TensorFlow : A Deep Learning Library](https://medium.com/python-in-plain-english/tensorflow-a-deep-learning-library-7b8361b67536)         
-* [Long Short-Term Memory (LSTM)](https://medium.com/python-in-plain-english/long-short-term-memory-lstm-3ad9a68c052b)         
-* [Retrieval-Augmented Generation (RAG)](https://medium.com/python-in-plain-english/retrieval-augmented-generation-rag-14d05a8397bd)        
-* [Large Language Models (LLMs)](https://medium.com/python-in-plain-english/large-language-models-llms-c05ba727f23e)         
-* [Facial Recognition in Python](https://medium.com/@raufpokemon00/facial-recognition-in-python-fc9229555eb4)                  
-...               
+* [Why SEO Is One of the Most Valuable Skills You Can Learn](https://medium.com/@raufpokemon00/why-seo-is-one-of-the-most-valuable-skills-you-can-learn-9117f9ca544e)
+* [Manto: A Drunk Rebel Writer](https://medium.com/@raufpokemon00/manto-a-drunk-rebel-writer-099f24244122)
+* [The Year 2024 for me](https://medium.com/@raufpokemon00/the-year-2024-for-me-5dd2ad2735a5)
+  ...             
 
-## Web Notes   
-
-* [Frontend Development](https://raufjatoi.github.io/Frontend-Development/)     
-* [Data Structures](https://raufjatoi.github.io/Introduction-to-Data-Structure/)     
-* [AI](https://raufjatoi.github.io/AI/)      
-* [Database](https://raufjatoi.github.io/SQL/)
 
 ## SaaS Prototypes 
 
@@ -70,24 +56,23 @@ Vibe Code Prototypes built with React/Vite, Tailwind/Shadcn, Three.js, Framer Mo
 ## Other   
 
 Other stuffs i do   
-* [The Beginning of the kingdoms and the end of ones](https://medium.com/@raufpokemon00/the-beginning-of-the-kingdoms-and-the-end-of-ones-376e57add304)          
-* [The Beginning of the kingdoms and the end of ones, part 2 : This is how it ends](https://medium.com/@raufpokemon00/the-beginning-of-the-kingdoms-and-the-end-of-ones-part-2-this-is-how-it-ends-292778e684a6)     
+* [The Beginning of the kingdoms and the end of ones](https://medium.com/@raufpokemon00/the-beginning-of-the-kingdoms-and-the-end-of-ones-376e57add304)              
 * [Jack Ax1](https://medium.com/@raufpokemon00/jack-ax1-b4c6de00c47d)   
-* [Jack Ax1 : Jox Takeover ](https://medium.com/@raufpokemon00/jack-ax1-jox-takeover-9408209ae98b)    
 * [Back in 2020 ](https://medium.com/@raufpokemon00/back-in-2020-b331edc0041b)          
 * [YingX : Interport Planet](https://medium.com/@raufpokemon00/yingx-interport-planet-5b3d77036d0e)
-
+  ...
+  
 History AI Editor using tools like Claude, ChatGPT, and DeepSeek for text; Eleven Labs for audio; Leonardo, DALL·E, and MidJourney for image generation; Runway for motion and video generation; and CapCut and Canva for editing also for bg sounds and music now using suno ai.Checkout our channel below where you see our work 😊:
  
 * [History with AI - Ahsan and Me](https://www.youtube.com/@History_With_Ai-1)
 * [BattleEchoes - Umar and Me](https://www.youtube.com/@militaryvedios)
 
-### AI Songs
+### AI Songs and Albums 
 
 Just a hobby to write songs and noe w/AI can make them alive hehe 🙃
 * [Songs](https://www.youtube.com/playlist?list=PLTZ70XpJ2zMvwDMawX3EKCco9ZZ4LpyH_)
+* [Life](https://rauf-music.vercel.app/)
  
 ## Contact Me   
  
 You can reach me at <raufpokemon00@icloud.com>      
-
