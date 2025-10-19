@@ -4,12 +4,12 @@ I'm [Rauf](https://rauf-psi.vercel.app/), Full-Stack Developer and Artificial In
 
 ## Projects  
 
+* [FinMate](https://finmate-rauf.vercel.app/) - Learn Crypto and Stocks with ai companions.
 * [P Labs](https://p-labs.vercel.app) - Generate ML models by describing your ideas.
 * [Multilingual Chatbot](https://multilingual-chatbot-three.vercel.app/) - A Chatbot that can chat in multiple languages using Compound Beta - GROQ.
 * [Mocka](https://mocka-eosin.vercel.app/) - Practice Interviews with AI voice Agents.
 * [Facial Recognition](https://github.com/Raufjatoi/Facial_Recognition) - A Streamlit-based application for facial recognition that supports both live video feed and uploaded images.       
-* [Time Table Generator](https://github.com/Raufjatoi/Time_Table_Generator) - Generate A timetable based on contraints and the data in the database.                                         
-* [Multi Domain Price Estimator](https://github.com/Raufjatoi/Multi-domain-price-estimator) - A web-based app that predicts prices across multiple domains.          
+* [Time Table Generator](https://github.com/Raufjatoi/Time_Table_Generator) - Generate A timetable based on contraints and the data in the database.          
   ...
 
 ## Circle Project Series ( Vibe Coding )
