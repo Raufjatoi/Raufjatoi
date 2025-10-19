@@ -28,7 +28,7 @@ I'm [Rauf](https://rauf-psi.vercel.app/), Full-Stack Developer and Artificial In
 I also have my YouTube channel where I used to create tutorials:   
 * [Frontend Development](https://youtube.com/playlist?list=PLTZ70XpJ2zMvxeD6spfcOL_UChq1WS-SK&si=80S40kTOH0IxsXKy) - recent one           
 * [Introduction to Artificial Intelligence](https://youtube.com/playlist?list=PLTZ70XpJ2zMts70NPiFiJXfDy5X7bZ-Eq&si=RuMkDJt3_5vdC2rC)
-* [Deep Learning](https://youtube.com/playlist?list=PLTZ70XpJ2zMuNhXCnJ9aiJ8Ibwjh-cAl7&si=9ugUfj4kWzidnrVe)       
+* [Deep Learning](https://youtube.com/playlist?list=PLTZ70XpJ2zMuNhXCnJ9aiJ8Ibwjh-cAl7&si=9ugUfj4kWzidnrVe)                    
   ...
 
 ## Courses
@@ -36,7 +36,7 @@ I also have my YouTube channel where I used to create tutorials:
 I have taken courses from Harvard University ( CS50 ):
 * [CS50AI](https://github.com/Raufjatoi/AI/blob/main/CERTIFICATE/CS50AI.png) 
 * [CS50P (python)](https://certificates.cs50.io/ff15df9f-1e63-4761-b65b-643483a373af.pdf?size=letter)
-* [CS50x](https://github.com/Raufjatoi/CS50x/blob/main/CS50x%20certificate/CS50x.png)        
+* [CS50x](https://github.com/Raufjatoi/CS50x/blob/main/CS50x%20certificate/CS50x.png)                       
   ...
 
   
@@ -44,7 +44,7 @@ I have taken courses from Harvard University ( CS50 ):
 
 * [Why SEO Is One of the Most Valuable Skills You Can Learn](https://medium.com/@raufpokemon00/why-seo-is-one-of-the-most-valuable-skills-you-can-learn-9117f9ca544e)
 * [Manto: A Drunk Rebel Writer](https://medium.com/@raufpokemon00/manto-a-drunk-rebel-writer-099f24244122)
-* [The Year 2024 for me](https://medium.com/@raufpokemon00/the-year-2024-for-me-5dd2ad2735a5)         
+* [The Year 2024 for me](https://medium.com/@raufpokemon00/the-year-2024-for-me-5dd2ad2735a5)                 
   ...             
 
 
@@ -59,7 +59,7 @@ Other stuffs i do
 * [The Beginning of the kingdoms and the end of ones](https://medium.com/@raufpokemon00/the-beginning-of-the-kingdoms-and-the-end-of-ones-376e57add304)              
 * [Jack Ax1](https://medium.com/@raufpokemon00/jack-ax1-b4c6de00c47d)   
 * [Back in 2020 ](https://medium.com/@raufpokemon00/back-in-2020-b331edc0041b)          
-* [YingX : Interport Planet](https://medium.com/@raufpokemon00/yingx-interport-planet-5b3d77036d0e)         
+* [YingX : Interport Planet](https://medium.com/@raufpokemon00/yingx-interport-planet-5b3d77036d0e)                   
   ...
   
 History AI Editor using tools like Claude, ChatGPT, and DeepSeek for text; Eleven Labs for audio; Leonardo, DALL·E, and MidJourney for image generation; Runway for motion and video generation; and CapCut and Canva for editing also for bg sounds and music now using suno ai.Checkout our channel below where you see our work 😊:
