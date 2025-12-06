@@ -1,6 +1,6 @@
 # Hi!
 
-I'm [Rauf](https://rauf-psi.vercel.app/), Full-Stack Developer and Artificial Intelligence student.  
+I'm [Rauf](https://rauf-psi.vercel.app/), Lead Developer @ [Aratoz Agency](https://aratoz.agency/), Also doing Bachelors in Artifical Intelligence from [Quest University](https://www.quest.edu.pk/), I have done courses like CS50AI , CS50Web and CS50x from [Harvard University](https://www.harvard.edu/) in 2024.
 
 ## Projects  
 
