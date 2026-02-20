@@ -2,15 +2,15 @@
 
 I'm [Rauf](https://rauf-psi.vercel.app/), Lead Developer @ [Aratoz Agency](https://aratoz.agency/), Also doing Bachelors in Artifical Intelligence from [Quest University](https://www.quest.edu.pk/), I have done courses like CS50AI , CS50Web and CS50x from [Harvard University](https://www.harvard.edu/) in 2024.
 
+
 ## Projects  
 
-* [FinMate](https://finmate-rauf.vercel.app/) - Learn Crypto and Stocks with ai companions.
+* [Rypto](https://rypto-beta.vercel.app/) - Learn Crypto and Stocks by Doing. ( my first startup )
 * [P Labs](https://p-labs.vercel.app) - Generate ML models by describing your ideas.
 * [Multilingual Chatbot](https://multilingual-chatbot-three.vercel.app/) - A Chatbot that can chat in multiple languages using Compound Beta - GROQ.
-* [FinScope](https://github.com/Raufjatoi/FinScope) - Predict Stocks and Crypto with ml models - underwork
-* [Facial Recognition](https://github.com/Raufjatoi/Facial_Recognition) - A Streamlit-based application for facial recognition that supports both live video feed and uploaded images.       
-* [Time Table Generator](https://github.com/Raufjatoi/Time_Table_Generator) - Generate A timetable based on contraints and the data in the database.          
+* [FinMate](https://finmate-rauf.vercel.app/) - Learn Crypto and Stocks with ai companions.
   ...
+
 
 ## Circle Project Series ( Vibe Coding )
 * [🔵 Idea2Prompt](https://idea2prompt.vercel.app/) - Turn your idea into a well-defined prompt.             
@@ -26,10 +26,11 @@ I'm [Rauf](https://rauf-psi.vercel.app/), Lead Developer @ [Aratoz Agency](https
 ## Tutorials
   
 I also have my YouTube channel where I used to create tutorials:   
-* [Frontend Development](https://youtube.com/playlist?list=PLTZ70XpJ2zMvxeD6spfcOL_UChq1WS-SK&si=80S40kTOH0IxsXKy) - recent one           
+* [Frontend Development](https://youtube.com/playlist?list=PLTZ70XpJ2zMvxeD6spfcOL_UChq1WS-SK&si=80S40kTOH0IxsXKy)         
 * [Introduction to Artificial Intelligence](https://youtube.com/playlist?list=PLTZ70XpJ2zMts70NPiFiJXfDy5X7bZ-Eq&si=RuMkDJt3_5vdC2rC)
 * [Deep Learning](https://youtube.com/playlist?list=PLTZ70XpJ2zMuNhXCnJ9aiJ8Ibwjh-cAl7&si=9ugUfj4kWzidnrVe)                    
   ...
+
 
 ## Courses
 
@@ -42,16 +43,19 @@ I have taken courses from Harvard University ( CS50 ):
   
 ## Articles   
 
-* [Why SEO Is One of the Most Valuable Skills You Can Learn](https://medium.com/@raufpokemon00/why-seo-is-one-of-the-most-valuable-skills-you-can-learn-9117f9ca544e)
-* [Manto: A Drunk Rebel Writer](https://medium.com/@raufpokemon00/manto-a-drunk-rebel-writer-099f24244122)
+* [Rypto: Learn Stocks & Crypto by Doing](https://medium.com/@raufpokemon00/rypto-learn-stocks-crypto-by-doing-ddb92de509b3)
+* [2025 For Me](https://medium.com/@raufpokemon00/2025-for-me-dede324e7221)
 * [The Year 2024 for me](https://medium.com/@raufpokemon00/the-year-2024-for-me-5dd2ad2735a5)                 
-  ...             
+  ...                                                   
 
 
-## SaaS Prototypes 
+### AI Songs and Albums 
 
-Vibe Code Prototypes built with React/Vite, Tailwind/Shadcn, Three.js, Framer Motion, and more, Featuring my creative ideas and others inspiring concepts worth exploring.                    
-* [Insta](https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MDQxOTc5NTcyMTgwMTA1?igsh=NHMybzNqZWpiejdu)                                                                 
+Just a hobby to write songs and noe w/AI can make them alive hehe 🙃
+* [Love](https://love-navy-phi.vercel.app/) - Recent one 
+* [Songs](https://www.youtube.com/playlist?list=PLTZ70XpJ2zMvwDMawX3EKCco9ZZ4LpyH_)
+* [Life](https://rauf-music.vercel.app/)
+
      
 ## Other   
 
@@ -67,12 +71,8 @@ History AI Editor using tools like Claude, ChatGPT, and DeepSeek for text; Eleve
 * [History with AI - Ahsan and Me](https://www.youtube.com/@History_With_Ai-1)
 * [BattleEchoes - Umar and Me](https://www.youtube.com/@militaryvedios)
 
-### AI Songs and Albums 
-
-Just a hobby to write songs and noe w/AI can make them alive hehe 🙃
-* [Songs](https://www.youtube.com/playlist?list=PLTZ70XpJ2zMvwDMawX3EKCco9ZZ4LpyH_)
-* [Life](https://rauf-music.vercel.app/)
  
 ## Contact Me   
  
-You can reach me at <raufpokemon00@icloud.com>      
+You can reach me at <raufpokemon00@icloud.com>       
+or <raufpokemon00@gmail.com>
