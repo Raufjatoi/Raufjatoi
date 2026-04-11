@@ -6,7 +6,7 @@ I'm [Rauf](https://rauf-psi.vercel.app/), Lead Developer @ [Aratoz Agency](https
 ## Projects  
 
 * [Rypto](https://rypto-beta.vercel.app/) - Learn Crypto and Stocks by Doing. ( my first startup )
-* [Ragents](ragents-three.vercel.appk) - Agents for every task       
+* [Ragents](https://ragents-by-rauf.vercel.app/) - Agents for every task       
 * [P Labs](https://p-labs.vercel.app) - Generate ML models by describing your ideas.
 * [Multilingual Chatbot](https://multilingual-chatbot-three.vercel.app/) - A Chatbot that can chat in multiple languages using Compound Beta - GROQ.
 * [FinMate](https://finmate-rauf.vercel.app/) - Learn Crypto and Stocks with ai companions.         
