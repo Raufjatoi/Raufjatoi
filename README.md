@@ -1,10 +1,9 @@
 <h3 align="center">👋 Hi there, I'm Rauf Jatoi</h3>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/abdul-rauf-aa44892aa/">LinkedIn</a> •
   <a href="https://raufjatoi.tech">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/raufjatoi">LinkedIn</a> •
   <a href="https://github.com/Raufjatoi">GitHub</a> •
-  <a href="https://www.youtube.com/@History_With_Ai-1">YouTube</a>
 </p>
 
 ---
@@ -15,9 +14,8 @@ I currently work as a Lead Developer at Aratoz Agency while pursuing a Bachelor'
 
 My philosophy is simple: build useful things, keep learning, and share what I discover along the way. Over the years, I've launched multiple projects, built AI-powered solutions, created automation systems, and helped businesses streamline their workflows with technology.
 
-Outside of development, you'll usually find me exploring AI, reading books, playing chess, creating content, experimenting with music, or working on the next project that caught my attention.
+Outside of development, you'll usually find me watching anime and movies, playing chess, sketching ideas, experimenting with AI, playing sports, or reading fictional books.
 
 ---
 
 * 📫 Reach me at: <a href="mailto:raufpokemon00@gmail.com">[raufpokemon00@gmail.com](mailto:raufpokemon00@gmail.com)</a>
-* 🌐 Portfolio: <a href="https://raufjatoi.tech">raufjatoi.tech</a>
