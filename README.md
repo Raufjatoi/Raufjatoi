@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/abdul-rauf-aa44892aa/">LinkedIn</a> •
   <a href="https://raufjatoi.tech">Portfolio</a> •
-  <a href="https://github.com/Raufjatoi">GitHub</a> •
+  <a href="https://github.com/Raufjatoi">GitHub</a> 
 </p>
 
 ---
